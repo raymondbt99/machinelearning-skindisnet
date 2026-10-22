@@ -1,0 +1,1711 @@
+Patient_id,Image_id,Folder_name,Diagnosis,Class_index,Relative_path,Age,Sex,Leision_location,Split
+P_015,AD (68),Atopic Dermatitis (AD),Atopic Dermatitis,0,Preprocessed/Atopic Dermatitis (AD)/AD (68).jpg,2.0,Male,Leg,train
+P_015,AD (69),Atopic Dermatitis (AD),Atopic Dermatitis,0,Preprocessed/Atopic Dermatitis (AD)/AD (69).jpg,2.0,Male,Leg,train
+P_015,AD (70),Atopic Dermatitis (AD),Atopic Dermatitis,0,Preprocessed/Atopic Dermatitis (AD)/AD (70).jpg,2.0,Male,Leg,train
+P_013,AD (57),Atopic Dermatitis (AD),Atopic Dermatitis,0,Preprocessed/Atopic Dermatitis (AD)/AD (57).jpg,11.0,Male,Forearm,train
+P_013,AD (58),Atopic Dermatitis (AD),Atopic Dermatitis,0,Preprocessed/Atopic Dermatitis (AD)/AD (58).jpg,11.0,Male,Forearm,train
+P_013,AD (59),Atopic Dermatitis (AD),Atopic Dermatitis,0,Preprocessed/Atopic Dermatitis (AD)/AD (59).jpg,11.0,Male,Hand,train
+P_013,AD (60),Atopic Dermatitis (AD),Atopic Dermatitis,0,Preprocessed/Atopic Dermatitis (AD)/AD (60).jpg,11.0,Male,Arm,train
+P_013,AD (61),Atopic Dermatitis (AD),Atopic Dermatitis,0,Preprocessed/Atopic Dermatitis (AD)/AD (61).jpg,11.0,Male,Arm,train
+P_006,AD (22),Atopic Dermatitis (AD),Atopic Dermatitis,0,Preprocessed/Atopic Dermatitis (AD)/AD (22).jpg,9.0,Male,Leg,train
+P_006,AD (23),Atopic Dermatitis (AD),Atopic Dermatitis,0,Preprocessed/Atopic Dermatitis (AD)/AD (23).jpg,9.0,Male,Leg,train
+P_006,AD (24),Atopic Dermatitis (AD),Atopic Dermatitis,0,Preprocessed/Atopic Dermatitis (AD)/AD (24).jpg,9.0,Male,Leg,train
+P_006,AD (25),Atopic Dermatitis (AD),Atopic Dermatitis,0,Preprocessed/Atopic Dermatitis (AD)/AD (25).jpg,9.0,Male,Leg,train
+P_003,AD (8),Atopic Dermatitis (AD),Atopic Dermatitis,0,Preprocessed/Atopic Dermatitis (AD)/AD (8).jpg,23.0,Female,Arm,train
+P_003,AD (9),Atopic Dermatitis (AD),Atopic Dermatitis,0,Preprocessed/Atopic Dermatitis (AD)/AD (9).jpg,23.0,Female,Arm,train
+P_003,AD (10),Atopic Dermatitis (AD),Atopic Dermatitis,0,Preprocessed/Atopic Dermatitis (AD)/AD (10).jpg,23.0,Female,Arm,train
+P_010,AD (30),Atopic Dermatitis (AD),Atopic Dermatitis,0,Preprocessed/Atopic Dermatitis (AD)/AD (30).jpg,2.5,Male,Palm,train
+P_010,AD (31),Atopic Dermatitis (AD),Atopic Dermatitis,0,Preprocessed/Atopic Dermatitis (AD)/AD (31).jpg,2.5,Male,Palm,train
+P_010,AD (32),Atopic Dermatitis (AD),Atopic Dermatitis,0,Preprocessed/Atopic Dermatitis (AD)/AD (32).jpg,2.5,Male,Palm,train
+P_010,AD (33),Atopic Dermatitis (AD),Atopic Dermatitis,0,Preprocessed/Atopic Dermatitis (AD)/AD (33).jpg,2.5,Male,Palm,train
+P_010,AD (34),Atopic Dermatitis (AD),Atopic Dermatitis,0,Preprocessed/Atopic Dermatitis (AD)/AD (34).jpg,2.5,Male,Back,train
+P_010,AD (35),Atopic Dermatitis (AD),Atopic Dermatitis,0,Preprocessed/Atopic Dermatitis (AD)/AD (35).jpg,2.5,Male,Face,train
+P_010,AD (36),Atopic Dermatitis (AD),Atopic Dermatitis,0,Preprocessed/Atopic Dermatitis (AD)/AD (36).jpg,2.5,Male,Face,train
+P_004,AD (11),Atopic Dermatitis (AD),Atopic Dermatitis,0,Preprocessed/Atopic Dermatitis (AD)/AD (11).jpg,1.0,Female,Leg,train
+P_004,AD (12),Atopic Dermatitis (AD),Atopic Dermatitis,0,Preprocessed/Atopic Dermatitis (AD)/AD (12).jpg,1.0,Female,Leg,train
+P_004,AD (13),Atopic Dermatitis (AD),Atopic Dermatitis,0,Preprocessed/Atopic Dermatitis (AD)/AD (13).jpg,1.0,Female,Leg,train
+P_004,AD (14),Atopic Dermatitis (AD),Atopic Dermatitis,0,Preprocessed/Atopic Dermatitis (AD)/AD (14).jpg,1.0,Female,Leg,train
+P_005,AD (15),Atopic Dermatitis (AD),Atopic Dermatitis,0,Preprocessed/Atopic Dermatitis (AD)/AD (15).jpg,8.0,Female,Leg,train
+P_005,AD (16),Atopic Dermatitis (AD),Atopic Dermatitis,0,Preprocessed/Atopic Dermatitis (AD)/AD (16).jpg,8.0,Female,Leg,train
+P_005,AD (17),Atopic Dermatitis (AD),Atopic Dermatitis,0,Preprocessed/Atopic Dermatitis (AD)/AD (17).jpg,8.0,Female,Arm & Forearm,train
+P_005,AD (18),Atopic Dermatitis (AD),Atopic Dermatitis,0,Preprocessed/Atopic Dermatitis (AD)/AD (18).jpg,8.0,Female,Arm & Forearm,train
+P_005,AD (19),Atopic Dermatitis (AD),Atopic Dermatitis,0,Preprocessed/Atopic Dermatitis (AD)/AD (19).jpg,8.0,Female,Arm & Forearm,train
+P_005,AD (20),Atopic Dermatitis (AD),Atopic Dermatitis,0,Preprocessed/Atopic Dermatitis (AD)/AD (20).jpg,8.0,Female,Arm & Forearm,train
+P_005,AD (21),Atopic Dermatitis (AD),Atopic Dermatitis,0,Preprocessed/Atopic Dermatitis (AD)/AD (21).jpg,8.0,Female,Arm & Forearm,train
+P_012,AD (45),Atopic Dermatitis (AD),Atopic Dermatitis,0,Preprocessed/Atopic Dermatitis (AD)/AD (45).jpg,30.0,Female,Arm,train
+P_012,AD (46),Atopic Dermatitis (AD),Atopic Dermatitis,0,Preprocessed/Atopic Dermatitis (AD)/AD (46).jpg,30.0,Female,Arm,train
+P_012,AD (47),Atopic Dermatitis (AD),Atopic Dermatitis,0,Preprocessed/Atopic Dermatitis (AD)/AD (47).jpg,30.0,Female,Arm,train
+P_012,AD (48),Atopic Dermatitis (AD),Atopic Dermatitis,0,Preprocessed/Atopic Dermatitis (AD)/AD (48).jpg,30.0,Female,Forearm,train
+P_012,AD (49),Atopic Dermatitis (AD),Atopic Dermatitis,0,Preprocessed/Atopic Dermatitis (AD)/AD (49).jpg,30.0,Female,Forearm,train
+P_012,AD (50),Atopic Dermatitis (AD),Atopic Dermatitis,0,Preprocessed/Atopic Dermatitis (AD)/AD (50).jpg,30.0,Female,Forearm,train
+P_012,AD (51),Atopic Dermatitis (AD),Atopic Dermatitis,0,Preprocessed/Atopic Dermatitis (AD)/AD (51).jpg,30.0,Female,Forearm,train
+P_012,AD (52),Atopic Dermatitis (AD),Atopic Dermatitis,0,Preprocessed/Atopic Dermatitis (AD)/AD (52).jpg,30.0,Female,Forearm,train
+P_012,AD (53),Atopic Dermatitis (AD),Atopic Dermatitis,0,Preprocessed/Atopic Dermatitis (AD)/AD (53).jpg,30.0,Female,Forearm,train
+P_012,AD (54),Atopic Dermatitis (AD),Atopic Dermatitis,0,Preprocessed/Atopic Dermatitis (AD)/AD (54).jpg,30.0,Female,Forearm,train
+P_012,AD (55),Atopic Dermatitis (AD),Atopic Dermatitis,0,Preprocessed/Atopic Dermatitis (AD)/AD (55).jpg,30.0,Female,Forearm,train
+P_012,AD (56),Atopic Dermatitis (AD),Atopic Dermatitis,0,Preprocessed/Atopic Dermatitis (AD)/AD (56).jpg,30.0,Female,Forearm,train
+P_001,AD (1),Atopic Dermatitis (AD),Atopic Dermatitis,0,Preprocessed/Atopic Dermatitis (AD)/AD (1).jpg,14.0,Female,Hand,train
+P_001,AD (2),Atopic Dermatitis (AD),Atopic Dermatitis,0,Preprocessed/Atopic Dermatitis (AD)/AD (2).jpg,14.0,Female,Hand,train
+P_001,AD (3),Atopic Dermatitis (AD),Atopic Dermatitis,0,Preprocessed/Atopic Dermatitis (AD)/AD (3).jpg,14.0,Female,Finger,train
+P_001,AD (4),Atopic Dermatitis (AD),Atopic Dermatitis,0,Preprocessed/Atopic Dermatitis (AD)/AD (4).jpg,14.0,Female,Finger,train
+P_001,AD (5),Atopic Dermatitis (AD),Atopic Dermatitis,0,Preprocessed/Atopic Dermatitis (AD)/AD (5).jpg,14.0,Female,Hand,train
+P_002,AD (6),Atopic Dermatitis (AD),Atopic Dermatitis,0,Preprocessed/Atopic Dermatitis (AD)/AD (6).jpg,2.1,Male,Arm,train
+P_002,AD (7),Atopic Dermatitis (AD),Atopic Dermatitis,0,Preprocessed/Atopic Dermatitis (AD)/AD (7).jpg,2.1,Male,Arm,train
+P_011,AD (37),Atopic Dermatitis (AD),Atopic Dermatitis,0,Preprocessed/Atopic Dermatitis (AD)/AD (37).jpg,42.0,Female,Leg,train
+P_011,AD (38),Atopic Dermatitis (AD),Atopic Dermatitis,0,Preprocessed/Atopic Dermatitis (AD)/AD (38).jpg,42.0,Female,Leg,train
+P_011,AD (39),Atopic Dermatitis (AD),Atopic Dermatitis,0,Preprocessed/Atopic Dermatitis (AD)/AD (39).jpg,42.0,Female,Leg,train
+P_011,AD (40),Atopic Dermatitis (AD),Atopic Dermatitis,0,Preprocessed/Atopic Dermatitis (AD)/AD (40).jpg,42.0,Female,Leg,train
+P_011,AD (41),Atopic Dermatitis (AD),Atopic Dermatitis,0,Preprocessed/Atopic Dermatitis (AD)/AD (41).jpg,42.0,Female,Leg,train
+P_011,AD (42),Atopic Dermatitis (AD),Atopic Dermatitis,0,Preprocessed/Atopic Dermatitis (AD)/AD (42).jpg,42.0,Female,Leg,train
+P_011,AD (43),Atopic Dermatitis (AD),Atopic Dermatitis,0,Preprocessed/Atopic Dermatitis (AD)/AD (43).jpg,42.0,Female,Leg,train
+P_011,AD (44),Atopic Dermatitis (AD),Atopic Dermatitis,0,Preprocessed/Atopic Dermatitis (AD)/AD (44).jpg,42.0,Female,Leg,train
+P_076,CD (254),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (254).jpg,24.0,Female,Hand,train
+P_076,CD (255),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (255).jpg,24.0,Female,Hand,train
+P_076,CD (256),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (256).jpg,24.0,Female,Hand,train
+P_076,CD (257),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (257).jpg,24.0,Female,Hand,train
+P_076,CD (258),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (258).jpg,24.0,Female,Hand,train
+P_076,CD (259),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (259).jpg,24.0,Female,Hand,train
+P_089,CD (315),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (315).jpg,12.0,Female,Leg,train
+P_089,CD (316),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (316).jpg,12.0,Female,Leg,train
+P_089,CD (317),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (317).jpg,12.0,Female,Leg,train
+P_089,CD (318),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (318).jpg,12.0,Female,Leg,train
+P_089,CD (319),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (319).jpg,12.0,Female,Leg,train
+P_109,CD (381),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (381).jpg,20.0,Female,Finger,train
+P_075,CD (251),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (251).jpg,50.0,Male,Toe,train
+P_075,CD (252),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (252).jpg,50.0,Male,Toe,train
+P_075,CD (253),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (253).jpg,50.0,Male,Toe,train
+P_055,CD (166),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (166).jpg,34.0,Female,Neck,train
+P_055,CD (167),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (167).jpg,34.0,Female,Neck,train
+P_055,CD (168),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (168).jpg,34.0,Female,Neck,train
+P_088,CD (313),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (313).jpg,55.0,Female,Chest,train
+P_088,CD (314),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (314).jpg,55.0,Female,Chest,train
+P_050,CD (148),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (148).jpg,38.0,Male,Palm,train
+P_050,CD (149),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (149).jpg,38.0,Male,Palm,train
+P_050,CD (150),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (150).jpg,38.0,Male,Palm,train
+P_050,CD (151),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (151).jpg,38.0,Male,Palm,train
+P_067,CD (213),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (213).jpg,8.0,Female,Foot,train
+P_067,CD (214),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (214).jpg,8.0,Female,Leg,train
+P_077,CD (260),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (260).jpg,65.0,Female,Palm,train
+P_077,CD (261),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (261).jpg,65.0,Female,Palm,train
+P_077,CD (262),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (262).jpg,65.0,Female,Palm,train
+P_077,CD (263),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (263).jpg,65.0,Female,Palm,train
+P_077,CD (264),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (264).jpg,65.0,Female,Palm,train
+P_077,CD (265),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (265).jpg,65.0,Female,Palm,train
+P_077,CD (266),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (266).jpg,65.0,Female,Palm,train
+P_077,CD (267),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (267).jpg,65.0,Female,Finger,train
+P_077,CD (268),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (268).jpg,65.0,Female,Palm,train
+P_077,CD (269),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (269).jpg,65.0,Female,Finger,train
+P_077,CD (270),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (270).jpg,65.0,Female,Finger,train
+P_077,CD (271),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (271).jpg,65.0,Female,Palm,train
+P_054,CD (160),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (160).jpg,55.0,Female, Back ,train
+P_054,CD (161),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (161).jpg,55.0,Female, Back ,train
+P_054,CD (162),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (162).jpg,55.0,Female,Belly,train
+P_054,CD (163),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (163).jpg,55.0,Female,Belly,train
+P_054,CD (164),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (164).jpg,55.0,Female,Belly,train
+P_054,CD (165),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (165).jpg,55.0,Female,Belly,train
+P_125,CD (473),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (473).jpg,40.0,Female,Toe,train
+P_125,CD (474),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (474).jpg,40.0,Female,Toe,train
+P_125,CD (475),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (475).jpg,40.0,Female,Toe,train
+P_125,CD (476),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (476).jpg,40.0,Female,Toe,train
+P_125,CD (477),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (477).jpg,40.0,Female,Toe,train
+P_057,CD (176),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (176).jpg,30.0,Female,Arm,train
+P_057,CD (177),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (177).jpg,30.0,Female,Arm,train
+P_114,CD (393),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (393).jpg,37.0,Male,Toe,train
+P_119,CD (423),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (423).jpg,3.0,Female,Ear,train
+P_119,CD (424),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (424).jpg,3.0,Female,Ear,train
+P_119,CD (425),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (425).jpg,3.0,Female,Ear,train
+P_072,CD (239),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (239).jpg,6.0,Male,Palm,train
+P_072,CD (240),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (240).jpg,6.0,Male,Palm,train
+P_072,CD (241),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (241).jpg,6.0,Male,Palm,train
+P_058,CD (178),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (178).jpg,13.0,Female,Foot,train
+P_058,CD (179),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (179).jpg,13.0,Female,Foot,train
+P_058,CD (180),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (180).jpg,13.0,Female,Foot,train
+P_058,CD (181),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (181).jpg,13.0,Female,Foot,train
+P_058,CD (182),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (182).jpg,13.0,Female,Foot,train
+P_098,CD (343),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (343).jpg,50.0,Female,Chest,train
+P_098,CD (344),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (344).jpg,50.0,Female,Chest,train
+P_038,CD (91),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (91).jpg,12.0,Male,Leg,train
+P_038,CD (92),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (92).jpg,12.0,Male,Leg,train
+P_038,CD (93),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (93).jpg,12.0,Male,Leg,train
+P_038,CD (94),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (94).jpg,12.0,Male,Leg,train
+P_038,CD (95),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (95).jpg,12.0,Male,Leg,train
+P_038,CD (96),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (96).jpg,12.0,Male,Leg,train
+P_038,CD (99),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (99).jpg,12.0,Male,Leg,train
+P_038,CD (100),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (100).jpg,12.0,Male,Leg,train
+P_038,CD (101),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (101).jpg,12.0,Male,Leg,train
+P_038,CD (102),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (102).jpg,12.0,Male,Leg,train
+P_068,CD (215),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (215).jpg,26.0,Female,Forearm,train
+P_068,CD (216),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (216).jpg,26.0,Female,Forearm,train
+P_068,CD (217),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (217).jpg,26.0,Female,Forearm,train
+P_068,CD (218),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (218).jpg,26.0,Female,Forearm,train
+P_068,CD (219),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (219).jpg,26.0,Female,Forearm,train
+P_068,CD (220),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (220).jpg,26.0,Female,Forearm,train
+P_068,CD (221),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (221).jpg,26.0,Female,Forehead,train
+P_068,CD (222),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (222).jpg,26.0,Female,Forehead,train
+P_086,CD (308),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (308).jpg,16.0,Female,Foot,train
+P_086,CD (309),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (309).jpg,16.0,Female,Foot,train
+P_039,CD (97),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (97).jpg,40.0,Female,Finger,train
+P_039,CD (98),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (98).jpg,40.0,Female,Finger,train
+P_111,CD (385),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (385).jpg,25.0,Female,Finger,train
+P_111,CD (386),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (386).jpg,25.0,Female,Finger,train
+P_111,CD (387),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (387).jpg,25.0,Female,Finger,train
+P_111,CD (388),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (388).jpg,25.0,Female,Finger,train
+P_111,CD (389),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (389).jpg,25.0,Female,Finger,train
+P_056,CD (169),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (169).jpg,22.0,Male,Finger,train
+P_056,CD (170),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (170).jpg,22.0,Male,Finger,train
+P_056,CD (171),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (171).jpg,22.0,Male,Finger,train
+P_056,CD (172),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (172).jpg,22.0,Male,Finger,train
+P_056,CD (173),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (173).jpg,22.0,Male,Finger,train
+P_056,CD (174),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (174).jpg,22.0,Male,Finger,train
+P_056,CD (175),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (175).jpg,22.0,Male,Finger,train
+P_120,CD (426),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (426).jpg,27.0,Male,Back,train
+P_120,CD (427),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (427).jpg,27.0,Male,Back,train
+P_120,CD (428),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (428).jpg,27.0,Male,Back,train
+P_120,CD (429),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (429).jpg,27.0,Male,Back,train
+P_120,CD (430),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (430).jpg,27.0,Male,Back,train
+P_120,CD (431),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (431).jpg,27.0,Male,Back,train
+P_120,CD (432),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (432).jpg,27.0,Male,Back,train
+P_120,CD (433),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (433).jpg,27.0,Male,Back,train
+P_033,CD (73),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (73).jpg,17.0,Female,Foot,train
+P_033,CD (74),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (74).jpg,17.0,Female,Foot,train
+P_033,CD (75),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (75).jpg,17.0,Female,Foot,train
+P_033,CD (76),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (76).jpg,17.0,Female,Foot,train
+P_033,CD (77),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (77).jpg,17.0,Female,Leg,train
+P_033,CD (78),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (78).jpg,17.0,Female,Foot,train
+P_033,CD (79),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (79).jpg,17.0,Female,Foot,train
+P_033,CD (80),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (80).jpg,17.0,Female,Foot,train
+P_033,CD (81),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (81).jpg,17.0,Female,Foot,train
+P_033,CD (82),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (82).jpg,17.0,Female,Foot,train
+P_083,CD (297),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (297).jpg,28.0,Male,Arm,train
+P_083,CD (298),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (298).jpg,28.0,Male,Arm,train
+P_022,CD (26),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (26).jpg,65.0,Female,Forearm,train
+P_022,CD (27),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (27).jpg,65.0,Female,Forearm,train
+P_022,CD (28),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (28).jpg,65.0,Female,Forearm,train
+P_022,CD (29),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (29).jpg,65.0,Female,Forearm,train
+P_022,CD (30),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (30).jpg,65.0,Female,Forearm,train
+P_071,CD (229),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (229).jpg,12.0,Female,Forearm,train
+P_071,CD (230),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (230).jpg,12.0,Female,Forearm,train
+P_071,CD (231),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (231).jpg,12.0,Female,Foot,train
+P_071,CD (232),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (232).jpg,12.0,Female,Foot,train
+P_071,CD (233),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (233).jpg,12.0,Female,Foot,train
+P_071,CD (234),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (234).jpg,12.0,Female,Forearm,train
+P_071,CD (235),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (235).jpg,12.0,Female,Foot,train
+P_071,CD (236),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (236).jpg,12.0,Female,Foot,train
+P_071,CD (237),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (237).jpg,12.0,Female,Foot,train
+P_071,CD (238),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (238).jpg,12.0,Female,Foot,train
+P_030,CD (55),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (55).jpg,7.0,Female,Back,train
+P_030,CD (56),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (56).jpg,7.0,Female,Back,train
+P_030,CD (57),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (57).jpg,7.0,Female,Back,train
+P_030,CD (58),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (58).jpg,7.0,Female,Back,train
+P_030,CD (59),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (59).jpg,7.0,Female,Back,train
+P_030,CD (60),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (60).jpg,7.0,Female,Back,train
+P_104,CD (363),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (363).jpg,6.0,Female,Palm,train
+P_104,CD (364),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (364).jpg,6.0,Female,Palm,train
+P_104,CD (365),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (365).jpg,6.0,Female,Palm,train
+P_104,CD (366),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (366).jpg,6.0,Female,Palm,train
+P_081,CD (294),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (294).jpg,20.0,Male,Back,train
+P_081,CD (295),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (295).jpg,20.0,Male,Back,train
+P_112,CD (390),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (390).jpg,27.0,Female,Forearm,train
+P_121,CD (434),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (434).jpg,27.0,Female,Shin,train
+P_121,CD (435),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (435).jpg,27.0,Female,Shin,train
+P_121,CD (436),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (436).jpg,27.0,Female,Leg,train
+P_121,CD (437),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (437).jpg,27.0,Female,Leg,train
+P_108,CD (379),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (379).jpg,35.0,Male,Leg,train
+P_108,CD (380),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (380).jpg,35.0,Male,Leg,train
+P_024,CD (38),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (38).jpg,70.0,Male,Leg (Shin) & Foot,train
+P_024,CD (39),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (39).jpg,70.0,Male,Leg (Shin) & Foot,train
+P_024,CD (40),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (40).jpg,70.0,Male,Leg (Shin) & Foot,train
+P_040,CD (103),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (103).jpg,19.0,Female,Leg,train
+P_062,CD (195),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (195).jpg,45.0,Male,Leg,train
+P_062,CD (196),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (196).jpg,45.0,Male,Leg,train
+P_062,CD (197),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (197).jpg,45.0,Male,Leg,train
+P_053,CD (158),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (158).jpg,1.4,Male,Cheek,train
+P_053,CD (159),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (159).jpg,1.4,Male,Cheek,train
+P_026,CD (44),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (44).jpg,4.0,Female,Forearm,train
+P_026,CD (45),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (45).jpg,4.0,Female,Forearm,train
+P_096,CD (337),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (337).jpg,2.0,Male,Leg,train
+P_096,CD (338),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (338).jpg,2.0,Male,Leg,train
+P_096,CD (339),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (339).jpg,2.0,Male,Leg,train
+P_031,CD (61),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (61).jpg,12.0,Female,Foot,train
+P_031,CD (62),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (62).jpg,12.0,Female,Foot,train
+P_031,CD (63),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (63).jpg,12.0,Female,Foot,train
+P_031,CD (64),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (64).jpg,12.0,Female,Foot,train
+P_031,CD (65),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (65).jpg,12.0,Female,Foot,train
+P_031,CD (66),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (66).jpg,12.0,Female,Foot,train
+P_084,CD (299),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (299).jpg,23.0,Male,Leg,train
+P_084,CD (300),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (300).jpg,23.0,Male,Leg,train
+P_074,CD (249),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (249).jpg,6.0,Female,Foot,train
+P_074,CD (250),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (250).jpg,6.0,Female,Foot,train
+P_021,CD (23),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (23).jpg,3.0,Female,Palm,train
+P_021,CD (24),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (24).jpg,3.0,Female,Palm,train
+P_021,CD (25),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (25).jpg,3.0,Female,Finger and Nail,train
+P_049,CD (134),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (134).jpg,12.0,Male,Leg,train
+P_049,CD (135),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (135).jpg,12.0,Male,Leg,train
+P_049,CD (136),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (136).jpg,12.0,Male,Leg,train
+P_049,CD (137),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (137).jpg,12.0,Male,Leg,train
+P_049,CD (138),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (138).jpg,12.0,Male,Leg,train
+P_049,CD (139),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (139).jpg,12.0,Male,Leg,train
+P_049,CD (140),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (140).jpg,12.0,Male,Leg,train
+P_049,CD (141),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (141).jpg,12.0,Male,Leg,train
+P_049,CD (142),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (142).jpg,12.0,Male,Leg,train
+P_049,CD (143),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (143).jpg,12.0,Male,Leg,train
+P_049,CD (144),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (144).jpg,12.0,Male,Leg,train
+P_049,CD (145),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (145).jpg,12.0,Male,Leg,train
+P_049,CD (146),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (146).jpg,12.0,Male,Leg,train
+P_049,CD (147),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (147).jpg,12.0,Male,Leg,train
+P_060,CD (186),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (186).jpg,13.0,Male,Foot,train
+P_060,CD (187),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (187).jpg,13.0,Male,Foot,train
+P_060,CD (188),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (188).jpg,13.0,Male,Foot,train
+P_060,CD (189),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (189).jpg,13.0,Male,Foot,train
+P_061,CD (190),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (190).jpg,26.0,Male,Palm,train
+P_061,CD (191),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (191).jpg,26.0,Male,Palm,train
+P_061,CD (192),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (192).jpg,26.0,Male,Palm,train
+P_061,CD (193),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (193).jpg,26.0,Male,Palm,train
+P_061,CD (194),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (194).jpg,26.0,Male,Palm,train
+P_028,CD (51),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (51).jpg,35.0,Female,Foot,train
+P_028,CD (54),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (54).jpg,35.0,Female,Hand,train
+P_064,CD (199),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (199).jpg,52.0,Male,Foot,train
+P_064,CD (200),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (200).jpg,52.0,Male,Foot,train
+P_064,CD (201),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (201).jpg,52.0,Male,Foot,train
+P_064,CD (202),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (202).jpg,52.0,Male,Foot,train
+P_064,CD (203),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (203).jpg,52.0,Male,Foot,train
+P_123,CD (455),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (455).jpg,52.0,Male,Finger,train
+P_123,CD (456),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (456).jpg,52.0,Male,Finger,train
+P_123,CD (457),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (457).jpg,52.0,Male,Finger,train
+P_123,CD (458),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (458).jpg,52.0,Male,Finger,train
+P_123,CD (459),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (459).jpg,52.0,Male,Finger,train
+P_123,CD (460),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (460).jpg,52.0,Male,Finger,train
+P_123,CD (461),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (461).jpg,52.0,Male,Finger,train
+P_029,CD (52),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (52).jpg,7.0,Female,Underarm & Back,train
+P_029,CD (53),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (53).jpg,7.0,Female,Leg,train
+P_103,CD (362),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (362).jpg,7.0,Female,Back,train
+P_122,CD (438),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (438).jpg,43.0,Male,Forearm,train
+P_122,CD (439),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (439).jpg,43.0,Male,Forearm,train
+P_122,CD (440),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (440).jpg,43.0,Male,Forearm,train
+P_122,CD (441),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (441).jpg,43.0,Male,Forearm,train
+P_122,CD (442),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (442).jpg,43.0,Male,Forearm,train
+P_122,CD (443),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (443).jpg,43.0,Male,Forearm,train
+P_122,CD (444),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (444).jpg,43.0,Male,Forearm,train
+P_122,CD (445),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (445).jpg,43.0,Male,Forearm,train
+P_122,CD (446),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (446).jpg,43.0,Male,Forearm,train
+P_122,CD (447),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (447).jpg,43.0,Male,Forearm,train
+P_122,CD (448),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (448).jpg,43.0,Male,Forearm,train
+P_122,CD (449),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (449).jpg,43.0,Male,Forearm,train
+P_122,CD (450),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (450).jpg,43.0,Male,Forearm,train
+P_122,CD (451),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (451).jpg,43.0,Male,Forearm,train
+P_122,CD (452),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (452).jpg,43.0,Male,Forearm,train
+P_122,CD (453),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (453).jpg,43.0,Male,Forearm,train
+P_122,CD (454),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (454).jpg,43.0,Male,Forearm,train
+P_035,CD (85),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (85).jpg,2.0,Male,Face,train
+P_035,CD (86),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (86).jpg,2.0,Male,Face,train
+P_115,CD (394),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (394).jpg,54.0,Male,Forearm,train
+P_115,CD (395),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (395).jpg,54.0,Male,Forearm,train
+P_115,CD (396),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (396).jpg,54.0,Male,Forearm,train
+P_115,CD (397),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (397).jpg,54.0,Male,Forearm,train
+P_115,CD (398),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (398).jpg,54.0,Male,Forearm,train
+P_115,CD (399),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (399).jpg,54.0,Male,Forearm,train
+P_115,CD (400),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (400).jpg,54.0,Male,Forearm,train
+P_115,CD (401),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (401).jpg,54.0,Male,Forearm,train
+P_115,CD (402),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (402).jpg,54.0,Male,Forearm,train
+P_115,CD (403),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (403).jpg,54.0,Male,Forearm,train
+P_059,CD (183),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (183).jpg,27.0,Female,Finger,train
+P_059,CD (184),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (184).jpg,27.0,Female,Finger,train
+P_059,CD (185),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (185).jpg,27.0,Female,Finger,train
+P_070,CD (226),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (226).jpg,6.0,Male,Forearm,train
+P_070,CD (227),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (227).jpg,6.0,Male,Forearm,train
+P_070,CD (228),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (228).jpg,6.0,Male,Forearm,train
+P_036,CD (87),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (87).jpg,22.0,Female,Cheek,train
+P_016,CD (1),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (1).jpg,35.0,Male,Leg,train
+P_016,CD (2),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (2).jpg,35.0,Male,Leg,train
+P_016,CD (3),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (3).jpg,35.0,Male,Leg,train
+P_016,CD (4),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (4).jpg,35.0,Male,Leg,train
+P_051,CD (152),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (152).jpg,26.0,Female,Leg,train
+P_051,CD (153),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (153).jpg,26.0,Female,Leg,train
+P_051,CD (154),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (154).jpg,26.0,Female,Leg,train
+P_051,CD (155),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (155).jpg,26.0,Female,Leg,train
+P_091,CD (325),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (325).jpg,6.0,Male,Toe,train
+P_073,CD (242),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (242).jpg,18.0,Female,Foot,train
+P_073,CD (243),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (243).jpg,18.0,Female,Foot,train
+P_073,CD (244),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (244).jpg,18.0,Female,Leg,train
+P_073,CD (245),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (245).jpg,18.0,Female,Leg,train
+P_073,CD (246),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (246).jpg,18.0,Female,Leg,train
+P_073,CD (247),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (247).jpg,18.0,Female,Leg,train
+P_073,CD (248),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (248).jpg,18.0,Female,Leg,train
+P_044,CD (114),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (114).jpg,13.0,Female,Leg,train
+P_069,CD (223),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (223).jpg,20.0,Female,Arm,train
+P_069,CD (224),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (224).jpg,20.0,Female,Arm,train
+P_069,CD (225),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (225).jpg,20.0,Female,Arm,train
+P_085,CD (301),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (301).jpg,14.0,Female,Foot,train
+P_085,CD (302),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (302).jpg,14.0,Female,Foot,train
+P_085,CD (303),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (303).jpg,14.0,Female,Foot,train
+P_085,CD (304),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (304).jpg,14.0,Female,Foot,train
+P_085,CD (305),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (305).jpg,14.0,Female,Foot,train
+P_085,CD (306),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (306).jpg,14.0,Female,Foot,train
+P_085,CD (307),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (307).jpg,14.0,Female,Foot,train
+P_105,CD (367),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (367).jpg,6.0,Female,Hand,train
+P_099,CD (345),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (345).jpg,2.0,Male,Leg,train
+P_099,CD (346),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (346).jpg,2.0,Male,Leg,train
+P_099,CD (347),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (347).jpg,2.0,Male,Leg,train
+P_099,CD (348),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (348).jpg,2.0,Male,Leg,train
+P_107,CD (373),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (373).jpg,50.0,Male,Hand,train
+P_107,CD (374),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (374).jpg,50.0,Male,Hand,train
+P_107,CD (375),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (375).jpg,50.0,Male,Hand,train
+P_107,CD (376),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (376).jpg,50.0,Male,Hand,train
+P_107,CD (377),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (377).jpg,50.0,Male,Hand,train
+P_107,CD (378),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (378).jpg,50.0,Male,Hand,train
+P_041,CD (104),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (104).jpg,6.0,Female,Underarm ,train
+P_087,CD (310),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (310).jpg,45.0,Female,Finger,train
+P_087,CD (311),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (311).jpg,45.0,Female,Finger,train
+P_087,CD (312),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (312).jpg,45.0,Female,Finger,train
+P_124,CD (462),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (462).jpg,53.0,Male,Foot,train
+P_124,CD (463),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (463).jpg,53.0,Male,Foot,train
+P_124,CD (464),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (464).jpg,53.0,Male,Foot,train
+P_124,CD (465),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (465).jpg,53.0,Male,Foot,train
+P_124,CD (466),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (466).jpg,53.0,Male,Foot,train
+P_124,CD (467),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (467).jpg,53.0,Male,Foot,train
+P_124,CD (468),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (468).jpg,53.0,Male,Foot,train
+P_124,CD (469),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (469).jpg,53.0,Male,Foot,train
+P_124,CD (470),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (470).jpg,53.0,Male,Foot,train
+P_124,CD (471),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (471).jpg,53.0,Male,Foot,train
+P_124,CD (472),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (472).jpg,53.0,Male,Foot,train
+P_093,CD (331),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (331).jpg,24.0,Female,Hand,train
+P_093,CD (332),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (332).jpg,24.0,Female,Hand,train
+P_080,CD (279),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (279).jpg,60.0,Male,Belly,train
+P_080,CD (280),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (280).jpg,60.0,Male,Chest,train
+P_080,CD (281),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (281).jpg,60.0,Male,Belly,train
+P_080,CD (282),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (282).jpg,60.0,Male,Belly,train
+P_080,CD (283),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (283).jpg,60.0,Male,Belly,train
+P_080,CD (284),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (284).jpg,60.0,Male,Belly,train
+P_080,CD (285),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (285).jpg,60.0,Male,Belly,train
+P_080,CD (286),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (286).jpg,60.0,Male,Belly,train
+P_080,CD (287),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (287).jpg,60.0,Male,Belly,train
+P_080,CD (288),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (288).jpg,60.0,Male,Belly,train
+P_080,CD (289),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (289).jpg,60.0,Male,Belly,train
+P_080,CD (290),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (290).jpg,60.0,Male,Face,train
+P_080,CD (291),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (291).jpg,60.0,Male,Face,train
+P_080,CD (292),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (292).jpg,60.0,Male,Face,train
+P_080,CD (293),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (293).jpg,60.0,Male,Face,train
+P_045,CD (115),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (115).jpg,21.0,Female,Hand,train
+P_045,CD (116),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (116).jpg,21.0,Female,Hand,train
+P_045,CD (117),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (117).jpg,21.0,Female,Hand,train
+P_043,CD (109),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (109).jpg,20.0,Male,Leg,train
+P_043,CD (110),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (110).jpg,20.0,Male,Leg,train
+P_043,CD (111),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (111).jpg,20.0,Male,Leg,train
+P_043,CD (112),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (112).jpg,20.0,Male,Leg,train
+P_043,CD (113),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (113).jpg,20.0,Male,Leg,train
+P_027,CD (46),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (46).jpg,5.0,Male,Hand,train
+P_027,CD (47),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (47).jpg,5.0,Male,Forearm,train
+P_027,CD (48),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (48).jpg,5.0,Male,Hand,train
+P_027,CD (49),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (49).jpg,5.0,Male,Hand,train
+P_027,CD (50),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (50).jpg,5.0,Male,Hand & Forearm,train
+P_019,CD (15),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (15).jpg,40.0,Female,Lip,train
+P_019,CD (16),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (16).jpg,40.0,Female,Lip,train
+P_019,CD (17),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (17).jpg,40.0,Female,Lip,train
+P_019,CD (18),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (18).jpg,40.0,Female,Lip,train
+P_019,CD (19),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (19).jpg,40.0,Female,Lip,train
+P_020,CD (20),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (20).jpg,36.0,Female,Leg,train
+P_020,CD (21),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (21).jpg,36.0,Female,Leg,train
+P_020,CD (22),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (22).jpg,36.0,Female,Leg,train
+P_138,EC (34),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (34).jpg,75.0,Male,Leg,train
+P_138,EC (35),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (35).jpg,75.0,Male,Leg,train
+P_138,EC (36),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (36).jpg,75.0,Male,Leg,train
+P_225,EC (376),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (376).jpg,2.0,Female,Belly,train
+P_225,EC (377),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (377).jpg,2.0,Female,Belly,train
+P_200,EC (196),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (196).jpg,75.0,Female,Shin,train
+P_200,EC (197),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (197).jpg,75.0,Female,Shin,train
+P_200,EC (198),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (198).jpg,75.0,Female,Shin,train
+P_200,EC (199),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (199).jpg,75.0,Female,Shin,train
+P_200,EC (200),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (200).jpg,75.0,Female,Shin,train
+P_200,EC (201),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (201).jpg,75.0,Female,Shin,train
+P_153,EC (64),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (64).jpg,6.0,Male,Face,train
+P_204,EC (215),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (215).jpg,40.0,Female,Forearm,train
+P_204,EC (216),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (216).jpg,40.0,Female,Forearm,train
+P_204,EC (217),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (217).jpg,40.0,Female,Forearm,train
+P_204,EC (218),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (218).jpg,40.0,Female,Forearm,train
+P_142,EC (42),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (42).jpg,35.0,Female,Finger,train
+P_136,EC (29),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (29).jpg,76.0,Male,Leg,train
+P_136,EC (30),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (30).jpg,76.0,Male,Leg,train
+P_161,EC (79),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (79).jpg,0.7,Female,Leg,train
+P_161,EC (80),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (80).jpg,0.7,Female,Leg,train
+P_156,EC (69),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (69).jpg,20.0,Female,Toe,train
+P_168,EC (100),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (100).jpg,23.0,Female,Foot & Leg,train
+P_168,EC (101),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (101).jpg,23.0,Female,Foot & Leg,train
+P_168,EC (102),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (102).jpg,23.0,Female,Foot & Leg,train
+P_168,EC (103),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (103).jpg,23.0,Female,Foot & Leg,train
+P_171,EC (109),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (109).jpg,13.0,Female,Foot,train
+P_171,EC (110),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (110).jpg,13.0,Female,Foot,train
+P_171,EC (111),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (111).jpg,13.0,Female,Foot,train
+P_171,EC (112),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (112).jpg,13.0,Female,Foot,train
+P_171,EC (113),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (113).jpg,13.0,Female,Foot,train
+P_226,EC (378),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (378).jpg,8.0,Female,Back,train
+P_226,EC (379),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (379).jpg,8.0,Female,Back,train
+P_226,EC (380),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (380).jpg,8.0,Female,Back,train
+P_226,EC (381),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (381).jpg,8.0,Female,Back,train
+P_226,EC (382),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (382).jpg,8.0,Female,Back,train
+P_226,EC (383),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (383).jpg,8.0,Female,Back,train
+P_226,EC (384),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (384).jpg,8.0,Female,Back,train
+P_226,EC (385),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (385).jpg,8.0,Female,Back,train
+P_226,EC (386),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (386).jpg,8.0,Female,Back,train
+P_226,EC (387),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (387).jpg,8.0,Female,Back,train
+P_226,EC (388),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (388).jpg,8.0,Female,Back,train
+P_226,EC (389),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (389).jpg,8.0,Female,Back,train
+P_215,EC (287),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (287).jpg,3.0,Male,Sole,train
+P_215,EC (288),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (288).jpg,3.0,Male,Sole,train
+P_215,EC (289),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (289).jpg,3.0,Male,Sole,train
+P_215,EC (290),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (290).jpg,3.0,Male,Sole,train
+P_215,EC (291),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (291).jpg,3.0,Male,Sole,train
+P_215,EC (292),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (292).jpg,3.0,Male,Sole,train
+P_215,EC (293),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (293).jpg,3.0,Male,Sole,train
+P_215,EC (294),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (294).jpg,3.0,Male,Sole,train
+P_215,EC (295),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (295).jpg,3.0,Male,Sole,train
+P_215,EC (296),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (296).jpg,3.0,Male,Sole,train
+P_215,EC (297),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (297).jpg,3.0,Male,Sole,train
+P_215,EC (298),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (298).jpg,3.0,Male,Foot,train
+P_130,EC (8),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (8).jpg,70.0,Male,Leg,train
+P_130,EC (9),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (9).jpg,70.0,Male,Leg,train
+P_130,EC (10),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (10).jpg,70.0,Male,Hand,train
+P_157,EC (70),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (70).jpg,30.0,Female,Hand,train
+P_157,EC (71),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (71).jpg,30.0,Female,Hand,train
+P_172,EC (114),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (114).jpg,27.0,Female,Foot,train
+P_172,EC (115),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (115).jpg,27.0,Female,Foot,train
+P_183,EC (143),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (143).jpg,30.0,Male,Toe,train
+P_183,EC (144),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (144).jpg,30.0,Male,Foot,train
+P_183,EC (145),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (145).jpg,30.0,Male,Toe,train
+P_183,EC (146),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (146).jpg,30.0,Male,Knee,train
+P_183,EC (147),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (147).jpg,30.0,Male,Knee,train
+P_131,EC (11),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (11).jpg,27.0,Female,Leg,train
+P_131,EC (12),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (12).jpg,27.0,Female,Leg,train
+P_162,EC (81),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (81).jpg,36.0,Female,Forearm,train
+P_162,EC (82),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (82).jpg,36.0,Female,Forearm,train
+P_162,EC (83),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (83).jpg,36.0,Female,Forearm,train
+P_212,EC (273),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (273).jpg,30.0,Female,Foot,train
+P_212,EC (274),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (274).jpg,30.0,Female,Foot,train
+P_212,EC (275),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (275).jpg,30.0,Female,Foot,train
+P_212,EC (276),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (276).jpg,30.0,Female,Foot,train
+P_212,EC (277),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (277).jpg,30.0,Female,Foot,train
+P_212,EC (278),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (278).jpg,30.0,Female,Foot,train
+P_212,EC (279),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (279).jpg,30.0,Female,Foot,train
+P_212,EC (280),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (280).jpg,30.0,Female,Foot,train
+P_212,EC (281),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (281).jpg,30.0,Female,Foot,train
+P_212,EC (282),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (282).jpg,30.0,Female,Foot,train
+P_129,EC (7),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (7).jpg,6.0,Male,Arm & Forearm,train
+P_141,EC (40),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (40).jpg,65.0,Female,Leg,train
+P_141,EC (41),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (41).jpg,65.0,Female,Leg,train
+P_219,EC (310),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (310).jpg,9.0,Male,Toe,train
+P_219,EC (311),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (311).jpg,9.0,Male,Toe,train
+P_219,EC (312),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (312).jpg,9.0,Male,Toe,train
+P_219,EC (313),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (313).jpg,9.0,Male,Finger,train
+P_219,EC (314),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (314).jpg,9.0,Male,Finger,train
+P_219,EC (315),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (315).jpg,9.0,Male,Finger,train
+P_219,EC (316),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (316).jpg,9.0,Male,Finger,train
+P_219,EC (317),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (317).jpg,9.0,Male,Finger,train
+P_219,EC (318),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (318).jpg,9.0,Male,Finger,train
+P_219,EC (319),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (319).jpg,9.0,Male,Finger,train
+P_219,EC (320),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (320).jpg,9.0,Male,Finger,train
+P_219,EC (321),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (321).jpg,9.0,Male,Finger,train
+P_219,EC (322),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (322).jpg,9.0,Male,Finger,train
+P_219,EC (323),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (323).jpg,9.0,Male,Finger,train
+P_219,EC (324),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (324).jpg,9.0,Male,Finger,train
+P_219,EC (325),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (325).jpg,9.0,Male,Finger,train
+P_219,EC (326),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (326).jpg,9.0,Male,Finger,train
+P_219,EC (327),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (327).jpg,9.0,Male,Finger,train
+P_219,EC (328),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (328).jpg,9.0,Male,Finger,train
+P_219,EC (329),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (329).jpg,9.0,Male,Finger,train
+P_219,EC (330),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (330).jpg,9.0,Male,Finger,train
+P_219,EC (331),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (331).jpg,9.0,Male,Finger,train
+P_219,EC (332),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (332).jpg,9.0,Male,Finger,train
+P_219,EC (333),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (333).jpg,9.0,Male,Finger,train
+P_219,EC (334),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (334).jpg,9.0,Male,Finger,train
+P_219,EC (335),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (335).jpg,9.0,Male,Finger,train
+P_219,EC (336),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (336).jpg,9.0,Male,Finger,train
+P_219,EC (337),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (337).jpg,9.0,Male,Finger,train
+P_219,EC (338),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (338).jpg,9.0,Male,Finger,train
+P_219,EC (339),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (339).jpg,9.0,Male,Finger,train
+P_219,EC (340),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (340).jpg,9.0,Male,Finger,train
+P_219,EC (341),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (341).jpg,9.0,Male,Finger,train
+P_219,EC (342),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (342).jpg,9.0,Male,Finger,train
+P_219,EC (343),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (343).jpg,9.0,Male,Finger,train
+P_219,EC (344),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (344).jpg,9.0,Male,Finger,train
+P_219,EC (345),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (345).jpg,9.0,Male,Finger,train
+P_219,EC (346),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (346).jpg,9.0,Male,Finger,train
+P_177,EC (125),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (125).jpg,21.0,Female,Face,train
+P_177,EC (126),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (126).jpg,21.0,Female,Face,train
+P_179,EC (134),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (134).jpg,24.0,Male,Palm,train
+P_182,EC (141),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (141).jpg,45.0,Male,Leg,train
+P_182,EC (142),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (142).jpg,45.0,Male,Leg,train
+P_149,EC (56),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (56).jpg,16.0,Male,Leg,train
+P_236,EC (438),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (438).jpg,4.0,Female,Toe,train
+P_236,EC (439),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (439).jpg,4.0,Female,Toe,train
+P_236,EC (440),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (440).jpg,4.0,Female,Foot,train
+P_133,EC (17),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (17).jpg,3.0,Male,Leg,train
+P_133,EC (18),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (18).jpg,3.0,Male,Leg,train
+P_128,EC (6),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (6).jpg,60.0,Female,Hand,train
+P_188,EC (154),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (154).jpg,45.0,Male,Leg,train
+P_188,EC (155),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (155).jpg,45.0,Male,Leg,train
+P_167,EC (97),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (97).jpg,21.0,Male,Leg,train
+P_167,EC (98),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (98).jpg,21.0,Male,Leg,train
+P_167,EC (99),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (99).jpg,21.0,Male,Leg,train
+P_205,EC (219),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (219).jpg,33.0,Female,Toe,train
+P_221,EC (354),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (354).jpg,50.0,Male,Foot,train
+P_221,EC (355),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (355).jpg,50.0,Male,Foot,train
+P_221,EC (356),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (356).jpg,50.0,Male,Foot,train
+P_221,EC (357),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (357).jpg,50.0,Male,Foot,train
+P_221,EC (358),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (358).jpg,50.0,Male,Foot,train
+P_221,EC (359),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (359).jpg,50.0,Male,Foot,train
+P_207,EC (234),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (234).jpg,4.0,Female,Knee,train
+P_207,EC (235),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (235).jpg,4.0,Female,Knee,train
+P_173,EC (116),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (116).jpg,10.0,Female,Leg,train
+P_173,EC (117),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (117).jpg,10.0,Female,Leg,train
+P_173,EC (118),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (118).jpg,10.0,Female,Leg,train
+P_233,EC (420),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (420).jpg,35.0,Female,Foot,train
+P_233,EC (421),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (421).jpg,35.0,Female,Foot,train
+P_233,EC (422),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (422).jpg,35.0,Female,Foot,train
+P_233,EC (423),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (423).jpg,35.0,Female,Foot,train
+P_233,EC (424),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (424).jpg,35.0,Female,Foot,train
+P_233,EC (425),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (425).jpg,35.0,Female,Foot,train
+P_151,EC (59),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (59).jpg,19.0,Male,Leg,train
+P_151,EC (60),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (60).jpg,19.0,Male,Leg,train
+P_151,EC (61),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (61).jpg,19.0,Male,Leg,train
+P_201,EC (202),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (202).jpg,9.0,Female,Foot,train
+P_164,EC (86),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (86).jpg,6.0,Male,Leg,train
+P_164,EC (87),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (87).jpg,6.0,Male,Leg,train
+P_139,EC (37),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (37).jpg,50.0,Male,Leg,train
+P_139,EC (38),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (38).jpg,50.0,Male,Leg,train
+P_203,EC (207),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (207).jpg,17.0,Female,Foot,train
+P_203,EC (208),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (208).jpg,17.0,Female,Foot,train
+P_203,EC (209),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (209).jpg,17.0,Female,Foot,train
+P_203,EC (210),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (210).jpg,17.0,Female,Foot,train
+P_203,EC (211),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (211).jpg,17.0,Female,Foot,train
+P_203,EC (212),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (212).jpg,17.0,Female,Foot,train
+P_203,EC (213),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (213).jpg,17.0,Female,Foot,train
+P_203,EC (214),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (214).jpg,17.0,Female,Foot,train
+P_148,EC (53),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (53).jpg,9.0,Male,Hand,train
+P_148,EC (54),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (54).jpg,9.0,Male,Hand,train
+P_148,EC (55),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (55).jpg,9.0,Male,Hand,train
+P_190,EC (158),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (158).jpg,37.0,Male,Leg,train
+P_190,EC (159),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (159).jpg,37.0,Male,Leg,train
+P_159,EC (75),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (75).jpg,45.0,Female,Leg,train
+P_159,EC (76),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (76).jpg,45.0,Female,Leg,train
+P_126,EC (1),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (1).jpg,11.0,Female,Foot,train
+P_126,EC (2),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (2).jpg,11.0,Female,Foot,train
+P_126,EC (3),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (3).jpg,11.0,Female,Foot,train
+P_184,EC (148),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (148).jpg,40.0,Male,Leg,train
+P_184,EC (149),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (149).jpg,40.0,Male,Leg,train
+P_231,EC (406),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (406).jpg,65.0,Female,Foot,train
+P_231,EC (407),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (407).jpg,65.0,Female,Foot,train
+P_231,EC (408),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (408).jpg,65.0,Female,Foot,train
+P_181,EC (138),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (138).jpg,55.0,Male,Back,train
+P_181,EC (139),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (139).jpg,55.0,Male,Forearm,train
+P_181,EC (140),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (140).jpg,55.0,Male,Arm,train
+P_163,EC (84),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (84).jpg,2.0,Male,Lip Side & Chin,train
+P_163,EC (85),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (85).jpg,6.0,Male,Leg,train
+P_216,EC (299),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (299).jpg,3.5,Female,Ear,train
+P_216,EC (300),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (300).jpg,3.5,Female,Ear,train
+P_216,EC (301),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (301).jpg,3.5,Female,Ear,train
+P_169,EC (104),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (104).jpg,20.0,Female,Foot,train
+P_169,EC (105),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (105).jpg,20.0,Female,Foot,train
+P_208,EC (236),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (236).jpg,45.0,Male,Foot,train
+P_208,EC (237),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (237).jpg,45.0,Male,Foot,train
+P_208,EC (238),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (238).jpg,45.0,Male,Foot,train
+P_208,EC (239),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (239).jpg,45.0,Male,Foot,train
+P_160,EC (77),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (77).jpg,50.0,Female,Leg,train
+P_160,EC (78),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (78).jpg,50.0,Female,Leg,train
+P_194,EC (169),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (169).jpg,48.0,Male,Knee,train
+P_194,EC (170),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (170).jpg,48.0,Male,Knee,train
+P_217,EC (302),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (302).jpg,35.0,Female,Palm,train
+P_217,EC (303),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (303).jpg,35.0,Female,Palm,train
+P_217,EC (304),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (304).jpg,35.0,Female,Finger,train
+P_217,EC (305),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (305).jpg,35.0,Female,Palm,train
+P_217,EC (306),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (306).jpg,35.0,Female,Palm,train
+P_234,EC (426),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (426).jpg,2.5,Male,Ear,train
+P_234,EC (427),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (427).jpg,2.5,Male,Ear,train
+P_234,EC (428),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (428).jpg,2.5,Male,Ear,train
+P_234,EC (429),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (429).jpg,2.5,Male,Ear,train
+P_229,EC (397),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (397).jpg,21.0,Male,Shin,train
+P_229,EC (398),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (398).jpg,21.0,Male,Shin,train
+P_229,EC (399),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (399).jpg,21.0,Male,Shin,train
+P_229,EC (400),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (400).jpg,21.0,Male,Shin,train
+P_229,EC (401),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (401).jpg,21.0,Male,Shin,train
+P_127,EC (4),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (4).jpg,35.0,Female,Foot,train
+P_127,EC (5),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (5).jpg,35.0,Female,Elbow,train
+P_196,EC (174),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (174).jpg,38.0,Male,Leg,train
+P_158,EC (72),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (72).jpg,35.0,Female,Lip,train
+P_158,EC (73),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (73).jpg,35.0,Female,Lip,train
+P_158,EC (74),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (74).jpg,35.0,Female,Lip,train
+P_193,EC (166),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (166).jpg,18.0,Male,Leg,train
+P_193,EC (167),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (167).jpg,18.0,Male,Leg,train
+P_193,EC (168),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (168).jpg,18.0,Male,Leg,train
+P_185,EC (150),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (150).jpg,65.0,Male,Palm,train
+P_185,EC (151),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (151).jpg,65.0,Male,Palm,train
+P_230,EC (402),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (402).jpg,24.0,Male,Foot,train
+P_230,EC (403),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (403).jpg,24.0,Male,Foot,train
+P_230,EC (404),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (404).jpg,24.0,Male,Foot,train
+P_230,EC (405),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (405).jpg,24.0,Male,Forearm,train
+P_174,EC (119),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (119).jpg,3.0,Female,Foot &Toe,train
+P_175,EC (120),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (120).jpg,23.0,Male,Forearm,train
+P_175,EC (121),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (121).jpg,23.0,Male,Forearm,train
+P_175,EC (122),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (122).jpg,23.0,Male,Forearm,train
+P_134,EC (19),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (19).jpg,40.0,Female,Arm,train
+P_134,EC (20),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (20).jpg,40.0,Female,Arm,train
+P_202,EC (203),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (203).jpg,40.0,Female,Foot,train
+P_202,EC (204),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (204).jpg,40.0,Female,Foot,train
+P_202,EC (205),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (205).jpg,40.0,Female,Foot,train
+P_202,EC (206),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (206).jpg,40.0,Female,Foot,train
+P_180,EC (135),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (135).jpg,60.0,Male,Face,train
+P_180,EC (136),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (136).jpg,60.0,Male,Face,train
+P_180,EC (137),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (137).jpg,60.0,Male,Face,train
+P_213,EC (283),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (283).jpg,0.9,Male,Belly,train
+P_213,EC (284),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (284).jpg,0.9,Male,Belly,train
+P_227,EC (390),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (390).jpg,1.0,Male,Palm,train
+P_227,EC (391),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (391).jpg,1.0,Male,Palm & Finger,train
+P_227,EC (392),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (392).jpg,1.0,Male,Palm & Finger,train
+P_227,EC (393),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (393).jpg,1.0,Male,Belly,train
+P_227,EC (394),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (394).jpg,1.0,Male,Belly,train
+P_227,EC (395),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (395).jpg,1.0,Male,Belly,train
+P_146,EC (50),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (50).jpg,40.0,Female,Foot,train
+P_146,EC (51),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (51).jpg,40.0,Female,Foot,train
+P_206,EC (220),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (220).jpg,52.0,Female,Toe,train
+P_206,EC (221),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (221).jpg,52.0,Female,Toe,train
+P_206,EC (222),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (222).jpg,52.0,Female,Toe,train
+P_206,EC (223),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (223).jpg,52.0,Female,Toe,train
+P_206,EC (224),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (224).jpg,52.0,Female,Toe,train
+P_206,EC (225),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (225).jpg,52.0,Female,Toe,train
+P_206,EC (226),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (226).jpg,52.0,Female,Toe,train
+P_206,EC (227),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (227).jpg,52.0,Female,Toe,train
+P_206,EC (228),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (228).jpg,52.0,Female,Toe,train
+P_206,EC (229),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (229).jpg,52.0,Female,Toe,train
+P_206,EC (230),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (230).jpg,52.0,Female,Toe,train
+P_206,EC (231),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (231).jpg,52.0,Female,Toe,train
+P_206,EC (232),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (232).jpg,52.0,Female,Toe,train
+P_206,EC (233),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (233).jpg,52.0,Female,Toe,train
+P_145,EC (48),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (48).jpg,9.0,Male,Foot,train
+P_145,EC (49),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (49).jpg,9.0,Male,Foot,train
+P_140,EC (39),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (39).jpg,12.0,Female,Leg,train
+P_132,EC (13),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (13).jpg,63.0,Male,Palm,train
+P_132,EC (14),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (14).jpg,63.0,Male,Palm,train
+P_132,EC (15),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (15).jpg,63.0,Male,Hand,train
+P_132,EC (16),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (16).jpg,63.0,Male,Finger,train
+P_222,EC (360),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (360).jpg,80.0,Female,Chin,train
+P_222,EC (361),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (361).jpg,80.0,Female,Chin,train
+P_222,EC (362),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (362).jpg,80.0,Female,Chin,train
+P_222,EC (363),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (363).jpg,80.0,Female,Chin,train
+P_137,EC (31),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (31).jpg,20.0,Female,Leg,train
+P_137,EC (32),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (32).jpg,20.0,Female,Leg,train
+P_137,EC (33),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (33).jpg,20.0,Female,Leg,train
+P_189,EC (156),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (156).jpg,40.0,Female,Leg,train
+P_189,EC (157),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (157).jpg,40.0,Female,Leg,train
+P_191,EC (160),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (160).jpg,67.0,Male,Leg,train
+P_191,EC (161),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (161).jpg,67.0,Male,Leg,train
+P_191,EC (162),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (162).jpg,67.0,Male,Leg,train
+P_143,EC (43),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (43).jpg,40.0,Female,Finger,train
+P_143,EC (44),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (44).jpg,40.0,Female,Finger,train
+P_143,EC (45),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (45).jpg,40.0,Female,Palm,train
+P_281,SC (158),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (158).jpg,14.0,Female,Hand,train
+P_281,SC (159),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (159).jpg,14.0,Female,Hand,train
+P_281,SC (160),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (160).jpg,14.0,Female,Hand,train
+P_281,SC (161),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (161).jpg,14.0,Female,Hand,train
+P_281,SC (162),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (162).jpg,14.0,Female,Hand,train
+P_304,SC (251),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (251).jpg,2.5,Male,Back,train
+P_304,SC (252),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (252).jpg,2.5,Male,Back,train
+P_304,SC (253),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (253).jpg,2.5,Male,Back,train
+P_263,SC (103),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (103).jpg,31.0,Female,Forearm,train
+P_263,SC (104),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (104).jpg,31.0,Female,Forearm,train
+P_263,SC (105),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (105).jpg,31.0,Female,Forearm,train
+P_268,SC (113),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (113).jpg,2.0,Female,Palm,train
+P_268,SC (114),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (114).jpg,2.0,Female,Palm,train
+P_268,SC (115),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (115).jpg,2.0,Female,Palm,train
+P_268,SC (116),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (116).jpg,2.0,Female,Palm,train
+P_259,SC (85),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (85).jpg,27.0,Male,Hand,train
+P_259,SC (86),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (86).jpg,27.0,Male,Hand,train
+P_259,SC (87),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (87).jpg,27.0,Male,Hand,train
+P_259,SC (88),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (88).jpg,27.0,Male,Hand,train
+P_259,SC (89),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (89).jpg,27.0,Male,Hand,train
+P_302,SC (247),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (247).jpg,36.0,Male,Hand,train
+P_302,SC (248),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (248).jpg,36.0,Male,Hand,train
+P_302,SC (249),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (249).jpg,36.0,Male,Hand,train
+P_257,SC (72),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (72).jpg,20.0,Female,Hand,train
+P_257,SC (73),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (73).jpg,20.0,Female,Hand,train
+P_257,SC (74),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (74).jpg,20.0,Female,Hand,train
+P_257,SC (75),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (75).jpg,20.0,Female,Hand,train
+P_257,SC (76),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (76).jpg,20.0,Female,Hand,train
+P_257,SC (77),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (77).jpg,20.0,Female,Hand,train
+P_257,SC (78),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (78).jpg,20.0,Female,Hand,train
+P_257,SC (79),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (79).jpg,20.0,Female,Hand,train
+P_278,SC (144),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (144).jpg,12.0,Male,Hand,train
+P_278,SC (145),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (145).jpg,12.0,Male,Hand,train
+P_278,SC (146),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (146).jpg,12.0,Male,Hand,train
+P_278,SC (147),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (147).jpg,12.0,Male,Hand,train
+P_278,SC (148),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (148).jpg,12.0,Male,Hand,train
+P_278,SC (149),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (149).jpg,12.0,Male,Leg,train
+P_278,SC (150),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (150).jpg,12.0,Male,Leg,train
+P_289,SC (178),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (178).jpg,13.0,Male,Forearm,train
+P_289,SC (179),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (179).jpg,13.0,Male,Forearm,train
+P_289,SC (180),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (180).jpg,13.0,Male,Forearm,train
+P_289,SC (181),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (181).jpg,13.0,Male,Forearm,train
+P_308,SC (259),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (259).jpg,20.0,Female,Hand,train
+P_308,SC (260),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (260).jpg,20.0,Female,Hand,train
+P_308,SC (261),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (261).jpg,20.0,Female,Hand,train
+P_320,SC (293),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (293).jpg,8.0,Male,Hand,train
+P_320,SC (294),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (294).jpg,8.0,Male,Finger,train
+P_320,SC (295),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (295).jpg,8.0,Male,Hand,train
+P_297,SC (207),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (207).jpg,8.0,Female,Hand ,train
+P_297,SC (208),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (208).jpg,8.0,Female,Hand ,train
+P_297,SC (209),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (209).jpg,8.0,Female,Hand ,train
+P_297,SC (210),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (210).jpg,8.0,Female,Hand ,train
+P_297,SC (211),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (211).jpg,8.0,Female,Hand ,train
+P_297,SC (212),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (212).jpg,8.0,Female,Palm,train
+P_297,SC (213),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (213).jpg,8.0,Female,Palm,train
+P_297,SC (214),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (214).jpg,8.0,Female,Palm,train
+P_297,SC (215),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (215).jpg,8.0,Female,Palm,train
+P_297,SC (216),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (216).jpg,8.0,Female,Palm,train
+P_297,SC (217),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (217).jpg,8.0,Female,Palm,train
+P_297,SC (218),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (218).jpg,8.0,Female,Palm,train
+P_297,SC (219),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (219).jpg,8.0,Female,Hand & Finger,train
+P_297,SC (220),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (220).jpg,8.0,Female,Hand & Finger,train
+P_297,SC (221),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (221).jpg,8.0,Female,Hand & Finger,train
+P_297,SC (222),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (222).jpg,8.0,Female,Hand & Finger,train
+P_266,SC (108),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (108).jpg,2.5,Male,Hand,train
+P_266,SC (109),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (109).jpg,2.5,Male,Hand,train
+P_311,SC (270),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (270).jpg,16.0,Male,Leg,train
+P_271,SC (128),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (128).jpg,60.0,Female,Forearm,train
+P_310,SC (267),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (267).jpg,9.0,Male,Finger,train
+P_310,SC (268),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (268).jpg,9.0,Male,Palm,train
+P_310,SC (269),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (269).jpg,9.0,Male,Palm,train
+P_267,SC (110),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (110).jpg,30.0,Female,Arm,train
+P_267,SC (111),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (111).jpg,30.0,Female,Arm,train
+P_267,SC (112),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (112).jpg,30.0,Female,Hand,train
+P_251,SC (55),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (55).jpg,3.0,Male,Hand,train
+P_251,SC (56),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (56).jpg,3.0,Male,Hand,train
+P_326,SC (330),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (330).jpg,14.0,Male,Hand,train
+P_326,SC (331),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (331).jpg,14.0,Male,Hand,train
+P_326,SC (332),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (332).jpg,14.0,Male,Hand,train
+P_326,SC (333),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (333).jpg,14.0,Male,Hand,train
+P_326,SC (334),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (334).jpg,14.0,Male,Hand,train
+P_246,SC (29),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (29).jpg,0.1,Male,Hand,train
+P_241,SC (1),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (1).jpg,16.0,Female,Hand,train
+P_241,SC (2),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (2).jpg,16.0,Female,Hand,train
+P_241,SC (3),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (3).jpg,16.0,Female,Hand,train
+P_275,SC (136),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (136).jpg,22.0,Female,Forearm,train
+P_275,SC (137),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (137).jpg,22.0,Female,Forearm,train
+P_275,SC (138),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (138).jpg,22.0,Female,Forearm,train
+P_275,SC (139),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (139).jpg,22.0,Female,Forearm,train
+P_282,SC (163),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (163).jpg,17.0,Female,Hand,train
+P_282,SC (164),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (164).jpg,17.0,Female,Hand,train
+P_244,SC (18),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (18).jpg,6.0,Male,Hand,train
+P_244,SC (19),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (19).jpg,6.0,Male,Hand,train
+P_244,SC (20),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (20).jpg,6.0,Male,Hand,train
+P_244,SC (21),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (21).jpg,6.0,Male,Hand,train
+P_244,SC (22),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (22).jpg,6.0,Male,Hand,train
+P_316,SC (283),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (283).jpg,8.0,Female,Hand,train
+P_316,SC (284),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (284).jpg,8.0,Female,Hand,train
+P_316,SC (285),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (285).jpg,8.0,Female,Hand,train
+P_276,SC (140),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (140).jpg,2.0,Male,Back,train
+P_276,SC (141),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (141).jpg,2.0,Male,Hip,train
+P_305,SC (254),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (254).jpg,8.0,Male,Forearm,train
+P_305,SC (255),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (255).jpg,8.0,Male,Forearm,train
+P_305,SC (256),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (256).jpg,8.0,Male,Forearm,train
+P_317,SC (286),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (286).jpg,0.6,Female,Arm,train
+P_317,SC (287),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (287).jpg,0.6,Female,Forearm,train
+P_317,SC (288),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (288).jpg,0.6,Female,Forearm,train
+P_317,SC (289),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (289).jpg,0.6,Female,Arm,train
+P_313,SC (273),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (273).jpg,50.0,Male,Toe,train
+P_313,SC (274),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (274).jpg,50.0,Male,Toe,train
+P_313,SC (275),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (275).jpg,50.0,Male,Toe,train
+P_269,SC (117),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (117).jpg,6.0,Female,Finger,train
+P_269,SC (118),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (118).jpg,6.0,Female,Finger,train
+P_269,SC (119),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (119).jpg,6.0,Female,Finger,train
+P_269,SC (120),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (120).jpg,6.0,Female,Finger,train
+P_269,SC (121),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (121).jpg,6.0,Female,Finger,train
+P_269,SC (122),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (122).jpg,6.0,Female,Finger,train
+P_269,SC (123),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (123).jpg,0.4,Female,Foot,train
+P_245,SC (23),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (23).jpg,12.0,Female,Hand,train
+P_245,SC (24),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (24).jpg,12.0,Female,Hand,train
+P_245,SC (25),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (25).jpg,12.0,Female,Hand,train
+P_245,SC (26),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (26).jpg,12.0,Female,Hand,train
+P_245,SC (27),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (27).jpg,12.0,Female,Forearm,train
+P_245,SC (28),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (28).jpg,12.0,Female,Forearm,train
+P_321,SC (296),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (296).jpg,14.0,Male,Hand,train
+P_321,SC (297),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (297).jpg,14.0,Male,Hand,train
+P_321,SC (298),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (298).jpg,14.0,Male,Finger,train
+P_321,SC (299),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (299).jpg,14.0,Male,Hand,train
+P_321,SC (300),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (300).jpg,14.0,Male,Hand,train
+P_321,SC (301),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (301).jpg,14.0,Male,Finger,train
+P_321,SC (302),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (302).jpg,14.0,Male,Finger,train
+P_321,SC (303),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (303).jpg,14.0,Male,Leg,train
+P_321,SC (304),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (304).jpg,14.0,Male,Leg,train
+P_321,SC (305),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (305).jpg,14.0,Male,Knee,train
+P_321,SC (306),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (306).jpg,14.0,Male,Finger,train
+P_321,SC (307),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (307).jpg,14.0,Male,Finger,train
+P_256,SC (70),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (70).jpg,6.0,Female,Hand,train
+P_256,SC (71),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (71).jpg,6.0,Female,Hand,train
+P_270,SC (124),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (124).jpg,30.0,Female,Forearm,train
+P_270,SC (125),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (125).jpg,30.0,Female,Forearm,train
+P_270,SC (126),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (126).jpg,30.0,Female,Forearm,train
+P_270,SC (127),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (127).jpg,30.0,Female,Forearm,train
+P_306,SC (257),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (257).jpg,1.0,Male,Leg,train
+P_264,SC (106),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (106).jpg,26.0,Male,Arm,train
+P_319,SC (291),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (291).jpg,21.0,Male,Finger,train
+P_319,SC (292),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (292).jpg,21.0,Male,Hand,train
+P_258,SC (80),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (80).jpg,3.0,Female,Hand,train
+P_258,SC (81),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (81).jpg,3.0,Female,Leg,train
+P_258,SC (82),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (82).jpg,3.0,Female,Leg,train
+P_258,SC (83),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (83).jpg,3.0,Female,Hand,train
+P_258,SC (84),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (84).jpg,3.0,Female,Hand,train
+P_298,SC (223),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (223).jpg,7.0,Female,Hand,train
+P_298,SC (224),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (224).jpg,7.0,Female,Hand,train
+P_298,SC (225),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (225).jpg,7.0,Female,Hand,train
+P_298,SC (226),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (226).jpg,7.0,Female,Hand,train
+P_298,SC (227),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (227).jpg,7.0,Female,Forearm,train
+P_298,SC (228),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (228).jpg,7.0,Female,Forearm,train
+P_298,SC (229),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (229).jpg,7.0,Female,Forearm,train
+P_298,SC (230),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (230).jpg,7.0,Female,Forearm,train
+P_298,SC (231),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (231).jpg,7.0,Female,Hand,train
+P_298,SC (232),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (232).jpg,7.0,Female,Hand,train
+P_298,SC (233),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (233).jpg,7.0,Female,Hand,train
+P_298,SC (234),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (234).jpg,7.0,Female,Hand,train
+P_298,SC (235),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (235).jpg,7.0,Female,Hand,train
+P_298,SC (236),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (236).jpg,7.0,Female,Hand,train
+P_298,SC (237),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (237).jpg,7.0,Female,Hand,train
+P_309,SC (262),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (262).jpg,2.0,Female,Back,train
+P_309,SC (263),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (263).jpg,2.0,Female,Back,train
+P_309,SC (264),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (264).jpg,2.0,Female,Back,train
+P_309,SC (265),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (265).jpg,2.0,Female,Back,train
+P_309,SC (266),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (266).jpg,2.0,Female,Back,train
+P_324,SC (321),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (321).jpg,16.0,Male,Hand,train
+P_324,SC (322),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (322).jpg,16.0,Male,Finger,train
+P_324,SC (323),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (323).jpg,16.0,Male,Finger,train
+P_324,SC (324),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (324).jpg,16.0,Male,Finger,train
+P_324,SC (325),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (325).jpg,16.0,Male,Finger,train
+P_327,SC (335),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (335).jpg,15.0,Female,Finger,train
+P_327,SC (336),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (336).jpg,15.0,Female,Hand,train
+P_254,SC (61),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (61).jpg,26.0,Male,Hand,train
+P_254,SC (62),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (62).jpg,26.0,Male,Hand,train
+P_254,SC (63),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (63).jpg,26.0,Male,Hand,train
+P_254,SC (64),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (64).jpg,26.0,Male,Hand,train
+P_254,SC (65),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (65).jpg,26.0,Male,Hand,train
+P_284,SC (168),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (168).jpg,9.0,Female,Hand,train
+P_284,SC (169),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (169).jpg,9.0,Female,Hand,train
+P_284,SC (170),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (170).jpg,9.0,Female,Hand,train
+P_292,SC (186),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (186).jpg,16.0,Male,Palm,train
+P_292,SC (187),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (187).jpg,16.0,Male,Palm,train
+P_292,SC (188),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (188).jpg,16.0,Male,Palm,train
+P_292,SC (189),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (189).jpg,16.0,Male,Palm,train
+P_292,SC (190),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (190).jpg,16.0,Male,Palm,train
+P_292,SC (191),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (191).jpg,16.0,Male,Palm,train
+P_248,SC (36),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (36).jpg,13.0,Male,Hand,train
+P_248,SC (37),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (37).jpg,13.0,Male,Hand,train
+P_248,SC (38),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (38).jpg,13.0,Male,Hand,train
+P_248,SC (39),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (39).jpg,13.0,Male,Hand,train
+P_248,SC (40),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (40).jpg,13.0,Male,Hand,train
+P_248,SC (41),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (41).jpg,13.0,Male,Hand,train
+P_322,SC (308),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (308).jpg,0.2,Male,Leg,train
+P_322,SC (309),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (309).jpg,0.2,Male,Leg,train
+P_322,SC (310),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (310).jpg,0.2,Male,Belly,train
+P_322,SC (311),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (311).jpg,0.2,Male,Belly,train
+P_322,SC (312),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (312).jpg,0.2,Male,Shin,train
+P_322,SC (313),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (313).jpg,0.2,Male,Shin,train
+P_322,SC (314),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (314).jpg,0.2,Male,Belly,train
+P_322,SC (315),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (315).jpg,0.2,Male,Belly,train
+P_322,SC (316),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (316).jpg,0.2,Male,Belly,train
+P_322,SC (317),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (317).jpg,0.2,Male,Belly,train
+P_247,SC (30),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (30).jpg,8.0,Male,Hand,train
+P_247,SC (31),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (31).jpg,8.0,Male,Hand,train
+P_247,SC (32),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (32).jpg,8.0,Male,Hand,train
+P_247,SC (33),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (33).jpg,8.0,Male,Hand,train
+P_247,SC (34),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (34).jpg,8.0,Male,Hand,train
+P_247,SC (35),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (35).jpg,8.0,Male,Hand,train
+P_300,SC (242),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (242).jpg,2.0,Male,Foot & Leg,train
+P_300,SC (243),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (243).jpg,2.0,Male,Foot & Leg,train
+P_300,SC (244),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (244).jpg,2.0,Male,Foot & Leg,train
+P_325,SC (326),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (326).jpg,0.3,Male,Toe,train
+P_325,SC (327),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (327).jpg,0.3,Male,Toe,train
+P_325,SC (328),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (328).jpg,0.3,Male,Foot,train
+P_325,SC (329),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (329).jpg,0.3,Male,Foot,train
+P_295,SC (199),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (199).jpg,16.0,Male,Forearm,train
+P_295,SC (200),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (200).jpg,16.0,Male,Forearm,train
+P_286,SC (173),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (173).jpg,12.0,Female,Hand,train
+P_286,SC (174),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (174).jpg,12.0,Female,Hand,train
+P_296,SC (201),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (201).jpg,10.0,Female, Finger,train
+P_296,SC (202),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (202).jpg,10.0,Female, Finger,train
+P_296,SC (203),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (203).jpg,10.0,Female, Finger,train
+P_296,SC (204),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (204).jpg,10.0,Female,Hand ,train
+P_296,SC (205),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (205).jpg,10.0,Female, Finger,train
+P_296,SC (206),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (206).jpg,10.0,Female, Finger,train
+P_323,SC (318),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (318).jpg,15.0,Female,Hand,train
+P_323,SC (319),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (319).jpg,15.0,Female,Finger,train
+P_323,SC (320),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (320).jpg,15.0,Female,Finger,train
+P_253,SC (59),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (59).jpg,2.0,Male,Belly,train
+P_253,SC (60),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (60).jpg,2.0,Male,Belly,train
+P_265,SC (107),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (107).jpg,30.0,Female,Leg,train
+P_293,SC (192),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (192).jpg,12.0,Male,Hand & Finger,train
+P_293,SC (193),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (193).jpg,12.0,Male,Hand & Finger,train
+P_293,SC (194),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (194).jpg,12.0,Male,Hand & Finger,train
+P_293,SC (195),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (195).jpg,12.0,Male,Hand & Finger,train
+P_293,SC (196),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (196).jpg,12.0,Male,Hand & Finger,train
+P_293,SC (197),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (197).jpg,12.0,Male,Hand & Finger,train
+P_328,SC (337),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (337).jpg,12.0,Male,Hand,train
+P_328,SC (338),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (338).jpg,12.0,Male,Hand,train
+P_328,SC (339),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (339).jpg,12.0,Male,Hand,train
+P_328,SC (340),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (340).jpg,12.0,Male,Hand,train
+P_272,SC (129),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (129).jpg,0.6,Female,Finger,train
+P_301,SC (245),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (245).jpg,11.0,Male,Hand,train
+P_301,SC (246),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (246).jpg,11.0,Male,Hand,train
+P_330,SC (342),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (342).jpg,14.0,Male,Hand,train
+P_330,SC (343),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (343).jpg,14.0,Male,Hand,train
+P_314,SC (276),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (276).jpg,15.0,Male,Hand,train
+P_314,SC (277),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (277).jpg,15.0,Male,Hand,train
+P_336,SD (24),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (24).jpg,2.5,Male,Head,train
+P_336,SD (25),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (25).jpg,2.5,Male,Head,train
+P_336,SD (26),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (26).jpg,2.5,Male,Head,train
+P_336,SD (27),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (27).jpg,2.5,Male,Head,train
+P_336,SD (28),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (28).jpg,2.5,Male,Head,train
+P_337,SD (29),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (29).jpg,6.0,Female,Neck,train
+P_332,SD (7),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (7).jpg,60.0,Male,Back,train
+P_332,SD (8),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (8).jpg,60.0,Male,Back,train
+P_332,SD (9),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (9).jpg,60.0,Male,Back,train
+P_332,SD (10),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (10).jpg,60.0,Male,Back,train
+P_331,SD (1),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (1).jpg,8.0,Female,Head,train
+P_331,SD (2),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (2).jpg,8.0,Female,Head,train
+P_331,SD (3),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (3).jpg,8.0,Female,Head,train
+P_331,SD (4),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (4).jpg,8.0,Female,Head,train
+P_331,SD (5),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (5).jpg,8.0,Female,Head,train
+P_331,SD (6),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (6).jpg,8.0,Female,Head,train
+P_342,SD (57),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (57).jpg,40.0,Female,Forearm,train
+P_342,SD (58),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (58).jpg,40.0,Female,Forearm,train
+P_342,SD (59),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (59).jpg,40.0,Female,Forearm,train
+P_344,SD (62),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (62).jpg,1.0,Male,Head,train
+P_344,SD (63),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (63).jpg,1.0,Male,Head,train
+P_346,SD (72),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (72).jpg,65.0,Male,Neck,train
+P_340,SD (50),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (50).jpg,32.0,Female,Neck,train
+P_340,SD (51),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (51).jpg,32.0,Female,Neck,train
+P_345,SD (64),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (64).jpg,0.06,Male,Head & Forehead,train
+P_345,SD (65),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (65).jpg,0.06,Male,Head & Forehead,train
+P_345,SD (66),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (66).jpg,0.06,Male,Head & Forehead,train
+P_345,SD (67),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (67).jpg,0.06,Male,Head & Forehead,train
+P_345,SD (68),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (68).jpg,0.08,Male,Head & Forehead,train
+P_345,SD (69),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (69).jpg,0.06,Male,Head & Forehead,train
+P_345,SD (70),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (70).jpg,0.06,Male,Head & Forehead,train
+P_345,SD (71),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (71).jpg,0.06,Male,Head & Forehead,train
+P_334,SD (17),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (17).jpg,26.0,Female,Foot,train
+P_334,SD (18),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (18).jpg,26.0,Female,Foot,train
+P_334,SD (19),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (19).jpg,26.0,Female,Foot,train
+P_343,SD (60),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (60).jpg,50.0,Female,Face,train
+P_343,SD (61),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (61).jpg,50.0,Female,Face,train
+P_338,SD (30),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (30).jpg,25.0,Female,Back,train
+P_338,SD (31),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (31).jpg,25.0,Female,Back,train
+P_338,SD (32),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (32).jpg,25.0,Female,Back,train
+P_396,TC (188),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (188).jpg,26.0,Male,Leg,train
+P_396,TC (189),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (189).jpg,26.0,Male,Leg,train
+P_396,TC (190),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (190).jpg,26.0,Male,Leg,train
+P_384,TC (149),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (149).jpg,70.0,Female,Belly,train
+P_384,TC (150),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (150).jpg,70.0,Female,Belly,train
+P_384,TC (151),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (151).jpg,70.0,Female,Belly,train
+P_384,TC (152),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (152).jpg,70.0,Female,Belly,train
+P_384,TC (153),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (153).jpg,70.0,Female,Belly,train
+P_384,TC (154),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (154).jpg,70.0,Female,Belly,train
+P_358,TC (34),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (34).jpg,50.0,Female,Arm,train
+P_358,TC (36),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (36).jpg,50.0,Female,Arm,train
+P_415,TC (261),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (261).jpg,64.0,Female,Arm,train
+P_415,TC (262),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (262).jpg,64.0,Female,Arm,train
+P_415,TC (263),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (263).jpg,64.0,Female,Arm,train
+P_415,TC (264),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (264).jpg,64.0,Female,Arm,train
+P_415,TC (265),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (265).jpg,64.0,Female,Forearm,train
+P_415,TC (266),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (266).jpg,64.0,Female,Hand,train
+P_415,TC (267),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (267).jpg,64.0,Female,Hand,train
+P_415,TC (268),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (268).jpg,64.0,Female,Hand,train
+P_415,TC (269),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (269).jpg,64.0,Female,Hand,train
+P_392,TC (176),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (176).jpg,40.0,Male,Forearm,train
+P_392,TC (177),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (177).jpg,40.0,Male,Forearm,train
+P_392,TC (178),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (178).jpg,40.0,Male,Forearm,train
+P_392,TC (179),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (179).jpg,40.0,Male,Forearm,train
+P_392,TC (180),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (180).jpg,40.0,Male,Forearm,train
+P_392,TC (181),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (181).jpg,40.0,Male,Forearm,train
+P_366,TC (71),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (71).jpg,35.0,Female,Belly,train
+P_366,TC (72),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (72).jpg,35.0,Female,Belly,train
+P_366,TC (73),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (73).jpg,35.0,Female,Belly,train
+P_410,TC (235),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (235).jpg,40.0,Female,Arm,train
+P_410,TC (236),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (236).jpg,40.0,Female,Arm,train
+P_410,TC (237),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (237).jpg,40.0,Female,Arm,train
+P_410,TC (238),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (238).jpg,40.0,Female,Arm,train
+P_410,TC (239),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (239).jpg,40.0,Female,Forearm,train
+P_410,TC (240),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (240).jpg,40.0,Female,Forearm,train
+P_403,TC (204),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (204).jpg,60.0,Male,Back,train
+P_403,TC (205),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (205).jpg,60.0,Male,Back,train
+P_403,TC (206),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (206).jpg,60.0,Male,Back,train
+P_403,TC (207),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (207).jpg,60.0,Male,Back,train
+P_403,TC (208),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (208).jpg,60.0,Male,Back,train
+P_403,TC (209),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (209).jpg,60.0,Male,Back,train
+P_403,TC (210),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (210).jpg,60.0,Male,Back,train
+P_403,TC (211),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (211).jpg,60.0,Male,Back,train
+P_403,TC (212),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (212).jpg,60.0,Male,Back,train
+P_387,TC (160),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (160).jpg,35.0,Female,Leg,train
+P_387,TC (161),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (161).jpg,35.0,Female,Leg,train
+P_352,TC (11),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (11).jpg,40.0,Female,Forearm,train
+P_352,TC (12),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (12).jpg,40.0,Female,Forearm,train
+P_352,TC (13),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (13).jpg,40.0,Female,Forearm,train
+P_380,TC (133),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (133).jpg,9.0,Male,Belly,train
+P_380,TC (134),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (134).jpg,9.0,Male,Belly,train
+P_380,TC (135),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (135).jpg,9.0,Male,Belly,train
+P_380,TC (136),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (136).jpg,9.0,Male,Belly,train
+P_380,TC (137),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (137).jpg,9.0,Male,Belly,train
+P_380,TC (138),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (138).jpg,9.0,Male,Face,train
+P_380,TC (139),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (139).jpg,9.0,Male,Face,train
+P_380,TC (140),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (140).jpg,9.0,Male,Face,train
+P_380,TC (141),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (141).jpg,9.0,Male,Belly,train
+P_380,TC (142),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (142).jpg,9.0,Male,Belly,train
+P_380,TC (143),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (143).jpg,9.0,Male,Belly,train
+P_394,TC (183),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (183).jpg,8.0,Male,Belly,train
+P_394,TC (184),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (184).jpg,8.0,Male,Belly,train
+P_394,TC (185),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (185).jpg,8.0,Male,Belly,train
+P_394,TC (186),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (186).jpg,8.0,Male,Belly,train
+P_400,TC (197),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (197).jpg,67.0,Male,Forearm,train
+P_400,TC (198),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (198).jpg,67.0,Male,Forearm,train
+P_400,TC (199),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (199).jpg,67.0,Male,Forearm,train
+P_401,TC (200),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (200).jpg,24.0,Male,Belly,train
+P_404,TC (213),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (213).jpg,30.0,Male,Shoulder,train
+P_404,TC (214),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (214).jpg,30.0,Male,Shoulder,train
+P_414,TC (252),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (252).jpg,63.0,Female,Forearm,train
+P_414,TC (253),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (253).jpg,63.0,Female,Forearm,train
+P_414,TC (254),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (254).jpg,63.0,Female,Forearm,train
+P_414,TC (255),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (255).jpg,63.0,Female,Forearm,train
+P_414,TC (256),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (256).jpg,63.0,Female,Forearm,train
+P_414,TC (257),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (257).jpg,63.0,Female,Forearm,train
+P_414,TC (258),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (258).jpg,63.0,Female,Forearm,train
+P_414,TC (259),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (259).jpg,63.0,Female,Forearm,train
+P_414,TC (260),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (260).jpg,63.0,Female,Forearm,train
+P_409,TC (226),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (226).jpg,60.0,Male,Shin,train
+P_409,TC (227),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (227).jpg,60.0,Male,Shin,train
+P_409,TC (228),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (228).jpg,60.0,Male,Shin,train
+P_409,TC (229),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (229).jpg,60.0,Male,Shin,train
+P_409,TC (230),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (230).jpg,60.0,Male,Shin,train
+P_409,TC (231),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (231).jpg,60.0,Male,Shin,train
+P_409,TC (232),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (232).jpg,60.0,Male,Shin,train
+P_409,TC (233),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (233).jpg,60.0,Male,Shin,train
+P_409,TC (234),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (234).jpg,60.0,Male,Shin,train
+P_398,TC (193),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (193).jpg,16.0,Male,Leg,train
+P_398,TC (194),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (194).jpg,16.0,Male,Leg,train
+P_377,TC (121),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (121).jpg,19.0,Female,Arm,train
+P_377,TC (122),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (122).jpg,19.0,Female,Arm,train
+P_377,TC (123),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (123).jpg,19.0,Female,Arm,train
+P_377,TC (124),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (124).jpg,19.0,Female,Forearm,train
+P_377,TC (125),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (125).jpg,19.0,Female,Forearm,train
+P_359,TC (35),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (35).jpg,50.0,Female,Arm,train
+P_359,TC (37),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (37).jpg,50.0,Female,Face,train
+P_359,TC (38),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (38).jpg,50.0,Female,Face,train
+P_359,TC (39),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (39).jpg,50.0,Female,Face,train
+P_359,TC (40),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (40).jpg,50.0,Female,Face,train
+P_359,TC (41),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (41).jpg,50.0,Female,Face,train
+P_359,TC (42),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (42).jpg,50.0,Female,Face,train
+P_359,TC (43),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (43).jpg,50.0,Female,Face,train
+P_359,TC (44),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (44).jpg,50.0,Female,Face,train
+P_359,TC (45),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (45).jpg,50.0,Female,Face,train
+P_359,TC (46),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (46).jpg,50.0,Female,Face,train
+P_359,TC (47),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (47).jpg,50.0,Female,Face,train
+P_359,TC (48),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (48).jpg,50.0,Female,Face,train
+P_359,TC (49),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (49).jpg,50.0,Female,Arm,train
+P_359,TC (50),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (50).jpg,50.0,Female,Arm,train
+P_359,TC (51),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (51).jpg,50.0,Female,Arm,train
+P_359,TC (52),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (52).jpg,50.0,Female,Arm,train
+P_367,TC (74),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (74).jpg,54.0,Female,Back,train
+P_367,TC (75),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (75).jpg,54.0,Female,Back,train
+P_367,TC (76),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (76).jpg,54.0,Female,Back,train
+P_367,TC (77),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (77).jpg,54.0,Female,Back,train
+P_367,TC (78),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (78).jpg,54.0,Female,Back,train
+P_367,TC (79),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (79).jpg,54.0,Female,Back,train
+P_367,TC (80),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (80).jpg,54.0,Female,Back,train
+P_372,TC (95),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (95).jpg,23.0,Male,Belly,train
+P_372,TC (96),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (96).jpg,23.0,Male,Belly,train
+P_364,TC (63),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (63).jpg,23.0,Female,Forearm,train
+P_364,TC (64),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (64).jpg,23.0,Female,Forearm,train
+P_364,TC (65),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (65).jpg,23.0,Female,Neck,train
+P_413,TC (250),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (250).jpg,60.0,Female,Face,train
+P_413,TC (251),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (251).jpg,60.0,Female,Face,train
+P_371,TC (86),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (86).jpg,60.0,Female,Belly,train
+P_371,TC (87),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (87).jpg,60.0,Female,Belly,train
+P_371,TC (88),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (88).jpg,60.0,Female,Belly,train
+P_371,TC (89),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (89).jpg,60.0,Female,Belly,train
+P_371,TC (90),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (90).jpg,60.0,Female,Belly,train
+P_371,TC (91),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (91).jpg,60.0,Female,Belly,train
+P_371,TC (92),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (92).jpg,60.0,Female,Belly,train
+P_371,TC (93),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (93).jpg,60.0,Female,Belly,train
+P_371,TC (94),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (94).jpg,60.0,Female,Belly,train
+P_357,TC (29),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (29).jpg,60.0,Female,Back,train
+P_357,TC (30),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (30).jpg,60.0,Female,Back,train
+P_357,TC (31),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (31).jpg,60.0,Female,Back,train
+P_357,TC (32),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (32).jpg,60.0,Female,Back,train
+P_357,TC (33),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (33).jpg,60.0,Female,Back,train
+P_412,TC (247),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (247).jpg,25.0,Female,Belly,train
+P_412,TC (248),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (248).jpg,25.0,Female,Belly,train
+P_412,TC (249),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (249).jpg,25.0,Female,Belly,train
+P_381,TC (144),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (144).jpg,12.0,Male,Belly,train
+P_381,TC (145),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (145).jpg,12.0,Male,Belly,train
+P_362,TC (56),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (56).jpg,27.0,Female,Leg,train
+P_362,TC (57),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (57).jpg,27.0,Female,Leg,train
+P_362,TC (58),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (58).jpg,27.0,Female,Leg,train
+P_383,TC (148),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (148).jpg,16.0,Male,Face,train
+P_405,TC (215),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (215).jpg,37.0,Male,Hand,train
+P_405,TC (216),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (216).jpg,37.0,Male,Hand,train
+P_355,TC (22),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (22).jpg,54.0,Female,Belly,train
+P_355,TC (23),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (23).jpg,54.0,Female,Belly,train
+P_355,TC (24),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (24).jpg,54.0,Female,Belly,train
+P_385,TC (155),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (155).jpg,6.0,Female,Belly,train
+P_385,TC (156),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (156).jpg,6.0,Female,Belly,train
+P_385,TC (157),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (157).jpg,6.0,Female,Belly,train
+P_388,TC (162),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (162).jpg,28.0,Male,Leg,train
+P_388,TC (163),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (163).jpg,28.0,Male,Leg,train
+P_388,TC (164),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (164).jpg,28.0,Male,Leg,train
+P_388,TC (165),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (165).jpg,28.0,Male,Leg,train
+P_388,TC (166),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (166).jpg,28.0,Male,Leg,train
+P_408,TC (223),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (223).jpg,40.0,Male,Forearm,train
+P_408,TC (224),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (224).jpg,40.0,Male,Forearm,train
+P_408,TC (225),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (225).jpg,40.0,Male,Forearm,train
+P_349,TC (1),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (1).jpg,18.0,Female,Leg,train
+P_349,TC (2),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (2).jpg,18.0,Female,Foot,train
+P_349,TC (3),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (3).jpg,18.0,Female,Foot,train
+P_349,TC (4),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (4).jpg,18.0,Female,Foot,train
+P_349,TC (5),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (5).jpg,18.0,Female,Foot,train
+P_353,TC (14),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (14).jpg,23.0,Female,Forearm,train
+P_353,TC (15),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (15).jpg,23.0,Female,Forearm,train
+P_353,TC (16),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (16).jpg,23.0,Female,Forearm,train
+P_353,TC (17),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (17).jpg,23.0,Female,Forearm,train
+P_353,TC (18),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (18).jpg,23.0,Female,Forearm,train
+P_353,TC (19),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (19).jpg,23.0,Female,Forearm,train
+P_397,TC (191),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (191).jpg,21.0,Female,Toe,train
+P_397,TC (192),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (192).jpg,21.0,Female,Toe,train
+P_369,TC (83),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (83).jpg,50.0,Female,Face,train
+P_369,TC (84),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (84).jpg,50.0,Female,Face,train
+P_378,TC (126),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (126).jpg,16.0,Male,Forearm,train
+P_378,TC (127),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (127).jpg,16.0,Male,Forearm,train
+P_378,TC (128),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (128).jpg,16.0,Male,Forearm,train
+P_368,TC (81),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (81).jpg,21.0,Female,Belly,train
+P_368,TC (82),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (82).jpg,21.0,Female,Belly,train
+P_390,TC (169),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (169).jpg,29.0,Male,Forearm,train
+P_390,TC (170),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (170).jpg,29.0,Male,Forearm,train
+P_390,TC (171),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (171).jpg,29.0,Male,Forearm,train
+P_390,TC (172),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (172).jpg,29.0,Male,Forearm,train
+P_391,TC (173),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (173).jpg,27.0,Female,Forehead,train
+P_391,TC (174),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (174).jpg,27.0,Female,Forehead,train
+P_391,TC (175),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (175).jpg,27.0,Female,Forehead,train
+P_365,TC (66),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (66).jpg,60.0,Female,Forearm,train
+P_365,TC (67),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (67).jpg,60.0,Female,Forearm,train
+P_365,TC (68),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (68).jpg,60.0,Female,Forearm,train
+P_365,TC (69),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (69).jpg,60.0,Female,Forearm,train
+P_365,TC (70),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (70).jpg,60.0,Female,Forearm,train
+P_399,TC (195),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (195).jpg,37.0,Female,Forearm,train
+P_399,TC (196),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (196).jpg,37.0,Female,Forearm,train
+P_382,TC (146),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (146).jpg,60.0,Female,Neck,train
+P_382,TC (147),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (147).jpg,60.0,Female,Neck,train
+P_379,TC (129),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (129).jpg,14.0,Male,Neck,train
+P_379,TC (130),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (130).jpg,14.0,Male,Neck,train
+P_379,TC (131),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (131).jpg,14.0,Male,Neck,train
+P_379,TC (132),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (132).jpg,14.0,Male,Neck,train
+P_389,TC (167),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (167).jpg,35.0,Male,Underarm,train
+P_389,TC (168),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (168).jpg,35.0,Male,Underarm,train
+P_008,AD (27),Atopic Dermatitis (AD),Atopic Dermatitis,0,Preprocessed/Atopic Dermatitis (AD)/AD (27).jpg,32.0,Female,Forehead,val
+P_008,AD (28),Atopic Dermatitis (AD),Atopic Dermatitis,0,Preprocessed/Atopic Dermatitis (AD)/AD (28).jpg,32.0,Female,Forehead,val
+P_007,AD (26),Atopic Dermatitis (AD),Atopic Dermatitis,0,Preprocessed/Atopic Dermatitis (AD)/AD (26).jpg,0.4,Male,Face,val
+P_079,CD (274),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (274).jpg,16.0,Female,Arm,val
+P_079,CD (275),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (275).jpg,16.0,Female,Arm,val
+P_079,CD (276),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (276).jpg,16.0,Female,Arm,val
+P_079,CD (277),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (277).jpg,16.0,Female,Elbow,val
+P_079,CD (278),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (278).jpg,16.0,Female,Elbow,val
+P_047,CD (124),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (124).jpg,17.0,Male,Neck,val
+P_047,CD (125),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (125).jpg,17.0,Male,Neck,val
+P_047,CD (126),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (126).jpg,17.0,Male,Neck,val
+P_110,CD (382),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (382).jpg,65.0,Male,Leg,val
+P_110,CD (383),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (383).jpg,65.0,Male,Leg,val
+P_110,CD (384),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (384).jpg,65.0,Male,Leg,val
+P_034,CD (83),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (83).jpg,35.0,Female,Toe,val
+P_034,CD (84),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (84).jpg,35.0,Female,Toe,val
+P_090,CD (320),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (320).jpg,12.0,Female,Foot,val
+P_090,CD (321),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (321).jpg,12.0,Female,Foot,val
+P_090,CD (322),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (322).jpg,12.0,Female,Foot,val
+P_090,CD (323),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (323).jpg,12.0,Female,Foot,val
+P_090,CD (324),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (324).jpg,12.0,Female,Foot,val
+P_018,CD (12),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (12).jpg,12.0,Male,Leg,val
+P_018,CD (13),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (13).jpg,12.0,Male,Leg,val
+P_018,CD (14),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (14).jpg,12.0,Male,Leg,val
+P_082,CD (296),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (296).jpg,10.0,Male,Arm,val
+P_095,CD (334),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (334).jpg,30.0,Female,Arm,val
+P_095,CD (335),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (335).jpg,30.0,Female,Arm,val
+P_095,CD (336),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (336).jpg,30.0,Female,Arm,val
+P_052,CD (156),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (156).jpg,3.0,Male,Toe,val
+P_052,CD (157),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (157).jpg,3.0,Male,Toe,val
+P_100,CD (349),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (349).jpg,10.0,Female,Leg,val
+P_100,CD (350),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (350).jpg,10.0,Female,Leg,val
+P_100,CD (351),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (351).jpg,10.0,Female,Leg,val
+P_100,CD (352),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (352).jpg,10.0,Female,Leg,val
+P_100,CD (353),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (353).jpg,10.0,Female,Leg,val
+P_023,CD (31),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (31).jpg,26.0,Female,Hand,val
+P_023,CD (32),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (32).jpg,26.0,Female,Hand,val
+P_023,CD (33),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (33).jpg,26.0,Female,Hand,val
+P_023,CD (34),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (34).jpg,26.0,Female,Face,val
+P_023,CD (35),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (35).jpg,26.0,Female,Face,val
+P_023,CD (36),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (36).jpg,26.0,Female,Face,val
+P_023,CD (37),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (37).jpg,26.0,Female,Hand,val
+P_017,CD (5),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (5).jpg,50.0,Male,Foot,val
+P_017,CD (6),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (6).jpg,50.0,Male,Foot,val
+P_017,CD (7),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (7).jpg,50.0,Male,Foot,val
+P_017,CD (8),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (8).jpg,50.0,Male,Foot,val
+P_017,CD (9),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (9).jpg,50.0,Male,Foot,val
+P_017,CD (10),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (10).jpg,50.0,Male,Foot,val
+P_017,CD (11),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (11).jpg,50.0,Male,Foot,val
+P_102,CD (358),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (358).jpg,35.0,Female,Finger,val
+P_102,CD (359),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (359).jpg,35.0,Female,Finger,val
+P_102,CD (360),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (360).jpg,35.0,Female,Finger,val
+P_102,CD (361),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (361).jpg,35.0,Female,Finger,val
+P_094,CD (333),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (333).jpg,24.0,Female,Hand,val
+P_042,CD (105),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (105).jpg,50.0,Female,Forearm,val
+P_042,CD (106),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (106).jpg,50.0,Female,Forearm,val
+P_042,CD (107),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (107).jpg,50.0,Female,Forearm,val
+P_042,CD (108),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (108).jpg,50.0,Female,Forearm,val
+P_113,CD (391),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (391).jpg,4.0,Female,Belly,val
+P_113,CD (392),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (392).jpg,4.0,Female,Belly,val
+P_214,EC (285),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (285).jpg,35.0,Male,Foot,val
+P_214,EC (286),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (286).jpg,35.0,Male,Foot,val
+P_150,EC (57),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (57).jpg,30.0,Male,Hand,val
+P_150,EC (58),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (58).jpg,30.0,Male,Hand,val
+P_240,EC (457),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (457).jpg,28.0,Male,Foot,val
+P_240,EC (458),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (458).jpg,28.0,Male,Foot,val
+P_240,EC (459),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (459).jpg,28.0,Male,Foot,val
+P_240,EC (460),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (460).jpg,28.0,Male,Foot,val
+P_240,EC (461),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (461).jpg,28.0,Male,Foot,val
+P_240,EC (462),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (462).jpg,28.0,Male,Foot,val
+P_240,EC (463),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (463).jpg,28.0,Male,Foot,val
+P_240,EC (464),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (464).jpg,28.0,Male,Foot,val
+P_240,EC (465),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (465).jpg,28.0,Male,Foot,val
+P_240,EC (466),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (466).jpg,28.0,Male,Foot,val
+P_144,EC (46),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (46).jpg,60.0,Female,Leg,val
+P_144,EC (47),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (47).jpg,60.0,Female,Leg,val
+P_192,EC (163),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (163).jpg,63.0,Male,Foot,val
+P_192,EC (164),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (164).jpg,63.0,Male,Foot,val
+P_192,EC (165),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (165).jpg,63.0,Male,Foot,val
+P_166,EC (91),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (91).jpg,40.0,Male,Foot & Leg,val
+P_166,EC (92),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (92).jpg,40.0,Male,Foot & Leg,val
+P_166,EC (93),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (93).jpg,40.0,Male,Foot & Leg,val
+P_166,EC (94),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (94).jpg,40.0,Male,Foot & Leg,val
+P_166,EC (95),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (95).jpg,40.0,Male,Arm,val
+P_166,EC (96),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (96).jpg,40.0,Male,Arm,val
+P_238,EC (449),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (449).jpg,20.0,Female,Belly,val
+P_238,EC (450),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (450).jpg,20.0,Female,Belly,val
+P_238,EC (451),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (451).jpg,20.0,Female,Belly,val
+P_238,EC (452),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (452).jpg,20.0,Female,Belly,val
+P_238,EC (453),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (453).jpg,20.0,Female,Belly,val
+P_238,EC (454),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (454).jpg,20.0,Female,Belly,val
+P_220,EC (347),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (347).jpg,32.0,Female,Finger,val
+P_220,EC (348),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (348).jpg,32.0,Female,Finger,val
+P_220,EC (349),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (349).jpg,32.0,Female,Finger,val
+P_220,EC (350),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (350).jpg,32.0,Female,Finger,val
+P_220,EC (351),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (351).jpg,32.0,Female,Finger,val
+P_220,EC (352),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (352).jpg,32.0,Female,Finger,val
+P_220,EC (353),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (353).jpg,32.0,Female,Finger,val
+P_198,EC (178),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (178).jpg,35.0,Female,Heel,val
+P_198,EC (179),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (179).jpg,35.0,Female,Heel,val
+P_198,EC (180),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (180).jpg,35.0,Female,Heel,val
+P_198,EC (181),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (181).jpg,35.0,Female,Heel,val
+P_198,EC (182),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (182).jpg,35.0,Female,Heel,val
+P_198,EC (183),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (183).jpg,35.0,Female,Heel,val
+P_198,EC (184),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (184).jpg,35.0,Female,Heel,val
+P_198,EC (185),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (185).jpg,35.0,Female,Heel,val
+P_198,EC (186),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (186).jpg,35.0,Female,Heel,val
+P_198,EC (187),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (187).jpg,35.0,Female,Heel,val
+P_198,EC (188),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (188).jpg,35.0,Female,Heel,val
+P_198,EC (189),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (189).jpg,35.0,Female,Heel,val
+P_198,EC (190),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (190).jpg,35.0,Female,Foot,val
+P_198,EC (191),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (191).jpg,35.0,Female,Foot,val
+P_228,EC (396),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (396).jpg,7.0,Male,Finger,val
+P_211,EC (263),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (263).jpg,24.0,Male,Foot,val
+P_211,EC (264),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (264).jpg,24.0,Male,Foot,val
+P_211,EC (265),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (265).jpg,24.0,Male,Foot,val
+P_211,EC (266),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (266).jpg,24.0,Male,Foot,val
+P_211,EC (267),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (267).jpg,24.0,Male,Foot,val
+P_211,EC (268),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (268).jpg,24.0,Male,Foot,val
+P_211,EC (269),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (269).jpg,24.0,Male,Foot,val
+P_211,EC (270),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (270).jpg,24.0,Male,Foot,val
+P_211,EC (271),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (271).jpg,24.0,Male,Foot,val
+P_211,EC (272),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (272).jpg,24.0,Male,Foot,val
+P_165,EC (88),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (88).jpg,30.0,Female,Forearm,val
+P_165,EC (89),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (89).jpg,30.0,Female,Forearm,val
+P_165,EC (90),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (90).jpg,30.0,Female,Forearm,val
+P_154,EC (65),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (65).jpg,6.0,Female,Hand,val
+P_154,EC (66),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (66).jpg,6.0,Female,Hand,val
+P_154,EC (67),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (67).jpg,6.0,Female,Hand,val
+P_210,EC (251),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (251).jpg,61.0,Female,Belly,val
+P_210,EC (252),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (252).jpg,61.0,Female,Belly,val
+P_210,EC (253),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (253).jpg,61.0,Female,Belly,val
+P_210,EC (254),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (254).jpg,61.0,Female,Belly,val
+P_210,EC (255),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (255).jpg,61.0,Female,Belly,val
+P_210,EC (256),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (256).jpg,61.0,Female,Belly,val
+P_210,EC (257),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (257).jpg,61.0,Female,Belly,val
+P_210,EC (258),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (258).jpg,61.0,Female,Belly,val
+P_210,EC (259),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (259).jpg,61.0,Female,Belly,val
+P_210,EC (260),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (260).jpg,61.0,Female,Belly,val
+P_210,EC (261),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (261).jpg,61.0,Female,Belly,val
+P_210,EC (262),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (262).jpg,61.0,Female,Belly,val
+P_186,EC (152),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (152).jpg,14.0,Male,Forearm,val
+P_197,EC (175),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (175).jpg,40.0,Male,Forearm,val
+P_197,EC (176),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (176).jpg,40.0,Male,Chest,val
+P_197,EC (177),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (177).jpg,40.0,Male,Chest,val
+P_187,EC (153),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (153).jpg,12.0,Male,Leg,val
+P_277,SC (142),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (142).jpg,1.0,Female,Leg,val
+P_277,SC (143),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (143).jpg,1.0,Female,Leg,val
+P_279,SC (151),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (151).jpg,20.0,Female,Forearm,val
+P_279,SC (152),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (152).jpg,20.0,Female,Forearm,val
+P_279,SC (153),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (153).jpg,20.0,Female,Forearm,val
+P_279,SC (154),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (154).jpg,20.0,Female,Forearm,val
+P_260,SC (90),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (90).jpg,32.0,Male,Arm,val
+P_312,SC (271),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (271).jpg,45.0,Female,Palm,val
+P_312,SC (272),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (272).jpg,45.0,Female,Palm,val
+P_273,SC (130),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (130).jpg,23.0,Male,Finger,val
+P_273,SC (131),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (131).jpg,23.0,Male,Finger,val
+P_273,SC (132),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (132).jpg,23.0,Male,Finger,val
+P_273,SC (133),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (133).jpg,23.0,Male,Finger,val
+P_242,SC (4),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (4).jpg,8.0,Male,Hand,val
+P_242,SC (5),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (5).jpg,8.0,Male,Hand,val
+P_242,SC (6),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (6).jpg,8.0,Male,Hand,val
+P_242,SC (7),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (7).jpg,8.0,Male,Hand,val
+P_242,SC (8),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (8).jpg,8.0,Male,Hand,val
+P_242,SC (9),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (9).jpg,8.0,Male,Hand,val
+P_242,SC (10),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (10).jpg,8.0,Male,Hand,val
+P_242,SC (11),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (11).jpg,8.0,Male,Hand,val
+P_242,SC (12),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (12).jpg,8.0,Male,Hand,val
+P_242,SC (13),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (13).jpg,8.0,Male,Hand,val
+P_242,SC (14),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (14).jpg,8.0,Male,Hand,val
+P_242,SC (15),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (15).jpg,8.0,Male,Hand,val
+P_307,SC (258),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (258).jpg,32.0,Male,Hand,val
+P_250,SC (47),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (47).jpg,2.5,Male,Forearm,val
+P_250,SC (48),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (48).jpg,2.5,Male,Forearm,val
+P_250,SC (49),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (49).jpg,2.5,Male,Forearm,val
+P_250,SC (50),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (50).jpg,2.5,Male,Forearm,val
+P_250,SC (51),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (51).jpg,2.5,Male,Forearm,val
+P_250,SC (52),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (52).jpg,2.5,Male,Hand,val
+P_250,SC (53),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (53).jpg,2.5,Male,Hand,val
+P_250,SC (54),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (54).jpg,2.5,Male,Hand,val
+P_318,SC (290),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (290).jpg,14.0,Female,Forearm,val
+P_299,SC (238),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (238).jpg,8.0,Female,Hand,val
+P_299,SC (239),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (239).jpg,8.0,Female,Palm,val
+P_299,SC (240),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (240).jpg,8.0,Female,Palm,val
+P_299,SC (241),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (241).jpg,8.0,Female,Palm,val
+P_287,SC (175),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (175).jpg,1.6,Male,Foot,val
+P_283,SC (165),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (165).jpg,6.0,Female,Hand,val
+P_283,SC (166),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (166).jpg,6.0,Female,Hand,val
+P_283,SC (167),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (167).jpg,6.0,Female,Hand,val
+P_262,SC (93),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (93).jpg,80.0,Female,Palm,val
+P_262,SC (94),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (94).jpg,80.0,Female,Palm,val
+P_262,SC (95),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (95).jpg,80.0,Female,Palm,val
+P_262,SC (96),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (96).jpg,80.0,Female,Palm,val
+P_262,SC (97),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (97).jpg,80.0,Female,Palm,val
+P_262,SC (98),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (98).jpg,80.0,Female,Palm,val
+P_262,SC (99),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (99).jpg,80.0,Female,Palm,val
+P_262,SC (100),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (100).jpg,80.0,Female,Palm,val
+P_262,SC (101),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (101).jpg,80.0,Female,Palm,val
+P_262,SC (102),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (102).jpg,80.0,Female,Palm,val
+P_303,SC (250),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (250).jpg,0.6,Female,Hand,val
+P_333,SD (11),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (11).jpg,20.0,Male,Face,val
+P_333,SD (12),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (12).jpg,20.0,Male,Face,val
+P_333,SD (13),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (13).jpg,20.0,Male,Face,val
+P_333,SD (14),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (14).jpg,20.0,Male,Face,val
+P_333,SD (15),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (15).jpg,20.0,Male,Face,val
+P_333,SD (16),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (16).jpg,20.0,Male,Face,val
+P_348,SD (76),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (76).jpg,30.0,Female,Forearm,val
+P_348,SD (77),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (77).jpg,30.0,Female,Forearm,val
+P_348,SD (78),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (78).jpg,30.0,Female,Forearm,val
+P_348,SD (79),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (79).jpg,30.0,Female,Forearm,val
+P_335,SD (20),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (20).jpg,6.0,Male,Head,val
+P_335,SD (21),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (21).jpg,6.0,Male,Head,val
+P_335,SD (22),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (22).jpg,6.0,Male,Head,val
+P_335,SD (23),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (23).jpg,6.0,Male,Head,val
+P_370,TC (85),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (85).jpg,48.0,Female,Face,val
+P_350,TC (6),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (6).jpg,60.0,Female,Arm,val
+P_350,TC (7),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (7).jpg,60.0,Female,Arm,val
+P_386,TC (158),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (158).jpg,45.0,Female,Forearm,val
+P_386,TC (159),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (159).jpg,45.0,Female,Forearm,val
+P_406,TC (217),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (217).jpg,53.0,Female,Foot,val
+P_406,TC (218),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (218).jpg,35.0,Female,Foot,val
+P_373,TC (97),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (97).jpg,36.0,Female,Forearm,val
+P_373,TC (98),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (98).jpg,36.0,Female,Forearm,val
+P_373,TC (99),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (99).jpg,36.0,Female,Forearm,val
+P_373,TC (100),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (100).jpg,36.0,Female,Forearm,val
+P_373,TC (101),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (101).jpg,36.0,Female,Forearm,val
+P_373,TC (102),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (102).jpg,36.0,Female,Forearm,val
+P_373,TC (103),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (103).jpg,36.0,Female,Forearm,val
+P_373,TC (104),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (104).jpg,36.0,Female,Forearm,val
+P_411,TC (241),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (241).jpg,6.0,Female,Lower Abdomen,val
+P_411,TC (242),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (242).jpg,6.0,Female,Lower Abdomen,val
+P_411,TC (243),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (243).jpg,6.0,Female,Lower Abdomen,val
+P_411,TC (244),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (244).jpg,6.0,Female,Lower Abdomen,val
+P_411,TC (245),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (245).jpg,6.0,Female,Lower Abdomen,val
+P_411,TC (246),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (246).jpg,6.0,Female,Lower Abdomen,val
+P_395,TC (187),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (187).jpg,0.3,Male,Chest,val
+P_375,TC (114),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (114).jpg,36.0,Female,Leg,val
+P_375,TC (115),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (115).jpg,36.0,Female,Leg,val
+P_375,TC (116),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (116).jpg,36.0,Female,Leg,val
+P_375,TC (117),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (117).jpg,36.0,Female,Leg,val
+P_407,TC (219),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (219).jpg,45.0,Female,Forearm,val
+P_407,TC (220),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (220).jpg,45.0,Female,Forearm,val
+P_407,TC (221),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (221).jpg,45.0,Female,Forearm,val
+P_407,TC (222),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (222).jpg,45.0,Female,Forearm,val
+P_402,TC (201),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (201).jpg,20.0,Male,Arm,val
+P_402,TC (202),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (202).jpg,20.0,Male,Arm,val
+P_402,TC (203),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (203).jpg,60.0,Male,Back,val
+P_009,AD (29),Atopic Dermatitis (AD),Atopic Dermatitis,0,Preprocessed/Atopic Dermatitis (AD)/AD (29).jpg,1.5,Male,Arm,test
+P_014,AD (62),Atopic Dermatitis (AD),Atopic Dermatitis,0,Preprocessed/Atopic Dermatitis (AD)/AD (62).jpg,30.0,Female,Forearm,test
+P_014,AD (63),Atopic Dermatitis (AD),Atopic Dermatitis,0,Preprocessed/Atopic Dermatitis (AD)/AD (63).jpg,30.0,Female,Forearm,test
+P_014,AD (64),Atopic Dermatitis (AD),Atopic Dermatitis,0,Preprocessed/Atopic Dermatitis (AD)/AD (64).jpg,30.0,Female,Forearm,test
+P_014,AD (65),Atopic Dermatitis (AD),Atopic Dermatitis,0,Preprocessed/Atopic Dermatitis (AD)/AD (65).jpg,30.0,Female,Forearm,test
+P_014,AD (66),Atopic Dermatitis (AD),Atopic Dermatitis,0,Preprocessed/Atopic Dermatitis (AD)/AD (66).jpg,30.0,Female,Forearm,test
+P_014,AD (67),Atopic Dermatitis (AD),Atopic Dermatitis,0,Preprocessed/Atopic Dermatitis (AD)/AD (67).jpg,30.0,Female,Forearm,test
+P_025,CD (41),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (41).jpg,0.7,Male,Cheek,test
+P_025,CD (42),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (42).jpg,0.7,Male,Cheek,test
+P_025,CD (43),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (43).jpg,0.7,Male,Cheek,test
+P_106,CD (368),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (368).jpg,7.0,Male,Forearm,test
+P_106,CD (369),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (369).jpg,7.0,Male,Forearm,test
+P_106,CD (370),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (370).jpg,7.0,Male,Forearm,test
+P_106,CD (371),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (371).jpg,7.0,Male,Forearm,test
+P_106,CD (372),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (372).jpg,7.0,Male,Forearm,test
+P_116,CD (404),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (404).jpg,10.0,Female,Foot,test
+P_116,CD (405),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (405).jpg,10.0,Female,Foot,test
+P_116,CD (406),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (406).jpg,10.0,Female,Foot,test
+P_092,CD (326),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (326).jpg,38.0,Female,Leg,test
+P_092,CD (327),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (327).jpg,38.0,Female,Leg,test
+P_092,CD (328),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (328).jpg,38.0,Female,Leg,test
+P_092,CD (329),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (329).jpg,38.0,Female,Leg,test
+P_092,CD (330),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (330).jpg,38.0,Female,Leg,test
+P_065,CD (204),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (204).jpg,60.0,Female,Foot,test
+P_065,CD (205),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (205).jpg,60.0,Female,Foot,test
+P_065,CD (206),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (206).jpg,60.0,Female,Foot,test
+P_065,CD (207),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (207).jpg,60.0,Female,Foot,test
+P_065,CD (208),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (208).jpg,60.0,Female,Foot,test
+P_065,CD (209),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (209).jpg,60.0,Female,Foot,test
+P_065,CD (210),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (210).jpg,60.0,Female,Foot,test
+P_032,CD (67),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (67).jpg,6.0,Female,Back,test
+P_032,CD (68),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (68).jpg,6.0,Female,Back,test
+P_032,CD (69),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (69).jpg,6.0,Female,Back,test
+P_032,CD (70),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (70).jpg,6.0,Female,Back,test
+P_032,CD (71),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (71).jpg,6.0,Female,Back,test
+P_032,CD (72),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (72).jpg,6.0,Female,Back,test
+P_078,CD (272),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (272).jpg,70.0,Male,Lip,test
+P_078,CD (273),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (273).jpg,70.0,Male,Lip,test
+P_117,CD (407),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (407).jpg,64.0,Female,Belly,test
+P_117,CD (408),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (408).jpg,64.0,Female,Belly,test
+P_118,CD (409),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (409).jpg,15.0,Male,Foot,test
+P_118,CD (410),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (410).jpg,15.0,Male,Foot,test
+P_118,CD (411),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (411).jpg,15.0,Male,Foot,test
+P_118,CD (412),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (412).jpg,15.0,Male,Foot,test
+P_118,CD (413),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (413).jpg,15.0,Male,Foot,test
+P_118,CD (414),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (414).jpg,15.0,Male,Foot,test
+P_118,CD (415),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (415).jpg,15.0,Male,Foot,test
+P_118,CD (416),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (416).jpg,15.0,Male,Foot,test
+P_118,CD (417),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (417).jpg,15.0,Male,Foot,test
+P_118,CD (418),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (418).jpg,15.0,Male,Foot,test
+P_118,CD (419),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (419).jpg,15.0,Male,Foot,test
+P_118,CD (420),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (420).jpg,15.0,Male,Foot,test
+P_118,CD (421),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (421).jpg,15.0,Male,Foot,test
+P_118,CD (422),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (422).jpg,15.0,Male,Foot,test
+P_097,CD (340),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (340).jpg,14.0,Female,Toe,test
+P_097,CD (341),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (341).jpg,14.0,Female,Toe,test
+P_097,CD (342),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (342).jpg,14.0,Female,Toe,test
+P_063,CD (198),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (198).jpg,35.0,Male,Foot,test
+P_037,CD (88),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (88).jpg,23.0,Female,Foot,test
+P_037,CD (89),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (89).jpg,23.0,Female,Foot,test
+P_037,CD (90),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (90).jpg,23.0,Female,Foot,test
+P_046,CD (118),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (118).jpg,8.0,Female,Arm,test
+P_046,CD (119),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (119).jpg,8.0,Female,Arm,test
+P_046,CD (120),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (120).jpg,8.0,Female,Arm,test
+P_046,CD (121),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (121).jpg,8.0,Female,Arm,test
+P_046,CD (122),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (122).jpg,8.0,Female,Arm,test
+P_046,CD (123),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (123).jpg,8.0,Female,Arm,test
+P_101,CD (354),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (354).jpg,55.0,Male,Leg,test
+P_101,CD (355),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (355).jpg,55.0,Male,Leg,test
+P_101,CD (356),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (356).jpg,55.0,Male,Leg,test
+P_101,CD (357),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (357).jpg,55.0,Male,Leg,test
+P_048,CD (127),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (127).jpg,11.0,Male,Ear,test
+P_048,CD (128),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (128).jpg,11.0,Male,Cheek,test
+P_048,CD (129),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (129).jpg,11.0,Male,Ear,test
+P_048,CD (130),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (130).jpg,11.0,Male,Ear,test
+P_048,CD (131),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (131).jpg,11.0,Male,Ear,test
+P_048,CD (132),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (132).jpg,11.0,Male,Ear,test
+P_048,CD (133),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (133).jpg,11.0,Male,Ear,test
+P_066,CD (211),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (211).jpg,25.0,Female,Palm,test
+P_066,CD (212),Contact Dermatitis (CD),Contact Dermatitis,1,Preprocessed/Contact Dermatitis (CD)/CD (212).jpg,25.0,Female,Palm,test
+P_170,EC (106),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (106).jpg,16.0,Female,Leg,test
+P_170,EC (107),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (107).jpg,16.0,Female,Leg,test
+P_170,EC (108),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (108).jpg,16.0,Female,Leg,test
+P_235,EC (430),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (430).jpg,10.0,Male,Foot,test
+P_235,EC (431),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (431).jpg,10.0,Male,Foot,test
+P_235,EC (432),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (432).jpg,10.0,Male,Foot,test
+P_235,EC (433),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (433).jpg,10.0,Male,Foot,test
+P_235,EC (434),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (434).jpg,10.0,Male,Foot,test
+P_235,EC (435),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (435).jpg,10.0,Male,Foot,test
+P_235,EC (436),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (436).jpg,10.0,Male,Foot,test
+P_235,EC (437),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (437).jpg,10.0,Male,Foot,test
+P_135,EC (21),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (21).jpg,65.0,Female,Foot,test
+P_135,EC (22),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (22).jpg,65.0,Female,Foot,test
+P_135,EC (23),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (23).jpg,65.0,Female,Leg,test
+P_135,EC (24),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (24).jpg,65.0,Female,Leg,test
+P_135,EC (25),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (25).jpg,65.0,Female,Foot,test
+P_135,EC (26),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (26).jpg,65.0,Female,Foot,test
+P_135,EC (27),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (27).jpg,65.0,Female,Leg,test
+P_135,EC (28),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (28).jpg,65.0,Female,Leg,test
+P_209,EC (240),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (240).jpg,60.0,Male,Leg,test
+P_209,EC (241),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (241).jpg,60.0,Male,Leg,test
+P_209,EC (242),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (242).jpg,60.0,Male,Leg,test
+P_209,EC (243),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (243).jpg,60.0,Male,Belly,test
+P_209,EC (244),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (244).jpg,60.0,Male,Belly,test
+P_209,EC (245),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (245).jpg,60.0,Male,Belly,test
+P_209,EC (246),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (246).jpg,60.0,Male,Belly,test
+P_209,EC (247),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (247).jpg,60.0,Male,Belly,test
+P_209,EC (248),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (248).jpg,60.0,Male,Belly,test
+P_209,EC (249),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (249).jpg,60.0,Male,Belly,test
+P_209,EC (250),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (250).jpg,60.0,Male,Belly,test
+P_232,EC (409),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (409).jpg,10.0,Male,Ear,test
+P_232,EC (410),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (410).jpg,10.0,Male,Ear,test
+P_232,EC (411),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (411).jpg,10.0,Male,Ear,test
+P_232,EC (412),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (412).jpg,10.0,Male,Ear,test
+P_232,EC (413),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (413).jpg,10.0,Male,Ear,test
+P_232,EC (414),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (414).jpg,10.0,Male,Finger,test
+P_232,EC (415),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (415).jpg,10.0,Male,Finger,test
+P_232,EC (416),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (416).jpg,10.0,Male,Finger,test
+P_232,EC (417),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (417).jpg,10.0,Male,Finger,test
+P_232,EC (418),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (418).jpg,10.0,Male,Finger,test
+P_232,EC (419),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (419).jpg,10.0,Male,Finger,test
+P_199,EC (192),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (192).jpg,17.0,Male,Foot,test
+P_199,EC (193),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (193).jpg,17.0,Male,Foot,test
+P_199,EC (194),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (194).jpg,17.0,Male,Foot,test
+P_199,EC (195),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (195).jpg,17.0,Male,Foot,test
+P_195,EC (171),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (171).jpg,17.0,Male,Leg,test
+P_195,EC (172),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (172).jpg,17.0,Male,Leg,test
+P_195,EC (173),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (173).jpg,17.0,Male,Leg,test
+P_178,EC (127),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (127).jpg,32.0,Male,Arm,test
+P_178,EC (128),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (128).jpg,32.0,Male,Arm,test
+P_178,EC (129),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (129).jpg,32.0,Male,Forearm,test
+P_178,EC (130),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (130).jpg,32.0,Male,Forearm,test
+P_178,EC (131),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (131).jpg,32.0,Male,Forearm,test
+P_178,EC (132),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (132).jpg,60.0,Male,Leg,test
+P_178,EC (133),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (133).jpg,60.0,Male,Leg,test
+P_176,EC (123),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (123).jpg,12.0,Male,Foot,test
+P_176,EC (124),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (124).jpg,12.0,Male,Leg,test
+P_239,EC (455),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (455).jpg,10.0,Male,Foot,test
+P_239,EC (456),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (456).jpg,10.0,Male,Foot,test
+P_218,EC (307),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (307).jpg,2.5,Male,Foot,test
+P_218,EC (308),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (308).jpg,2.5,Male,Foot,test
+P_218,EC (309),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (309).jpg,2.5,Male,Foot,test
+P_152,EC (62),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (62).jpg,25.0,Female,Leg,test
+P_152,EC (63),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (63).jpg,25.0,Female,Leg,test
+P_155,EC (68),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (68).jpg,40.0,Female,Leg,test
+P_223,EC (364),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (364).jpg,40.0,Female,Forearm,test
+P_223,EC (365),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (365).jpg,40.0,Female,Forearm,test
+P_223,EC (366),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (366).jpg,40.0,Female,Forearm,test
+P_223,EC (367),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (367).jpg,40.0,Female,Forearm,test
+P_223,EC (368),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (368).jpg,40.0,Female,Forearm,test
+P_223,EC (369),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (369).jpg,40.0,Female,Forearm,test
+P_223,EC (370),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (370).jpg,40.0,Female,Forearm,test
+P_223,EC (371),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (371).jpg,40.0,Female,Forearm,test
+P_237,EC (441),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (441).jpg,5.0,Male,Finger,test
+P_237,EC (442),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (442).jpg,5.0,Male,Finger,test
+P_237,EC (443),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (443).jpg,5.0,Male,Finger,test
+P_237,EC (444),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (444).jpg,5.0,Male,Finger,test
+P_237,EC (445),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (445).jpg,5.0,Male,Finger,test
+P_237,EC (446),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (446).jpg,5.0,Male,Finger,test
+P_237,EC (447),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (447).jpg,5.0,Male,Finger,test
+P_237,EC (448),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (448).jpg,5.0,Male,Finger,test
+P_224,EC (372),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (372).jpg,20.0,Male,Shin,test
+P_224,EC (373),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (373).jpg,20.0,Male,Shin,test
+P_224,EC (374),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (374).jpg,20.0,Male,Shin,test
+P_224,EC (375),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (375).jpg,20.0,Male,Shin,test
+P_147,EC (52),Eczema (EC),Eczema,2,Preprocessed/Eczema (EC)/EC (52).jpg,18.0,Female,Foot,test
+P_261,SC (91),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (91).jpg,1.5,Male,Palm,test
+P_261,SC (92),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (92).jpg,1.5,Male,Hand,test
+P_280,SC (155),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (155).jpg,32.0,Female,Leg,test
+P_280,SC (156),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (156).jpg,32.0,Female,Leg,test
+P_280,SC (157),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (157).jpg,32.0,Female,Leg,test
+P_315,SC (278),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (278).jpg,16.0,Male,Forearm,test
+P_315,SC (279),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (279).jpg,16.0,Male,Forearm,test
+P_315,SC (280),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (280).jpg,16.0,Male,Forearm,test
+P_315,SC (281),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (281).jpg,16.0,Male,Forearm,test
+P_315,SC (282),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (282).jpg,16.0,Male,Forearm,test
+P_288,SC (176),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (176).jpg,17.0,Male,Forearm,test
+P_288,SC (177),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (177).jpg,17.0,Male,Forearm,test
+P_290,SC (182),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (182).jpg,42.0,Female,Leg,test
+P_252,SC (57),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (57).jpg,6.0,Male,Hand,test
+P_252,SC (58),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (58).jpg,6.0,Male,Hand,test
+P_274,SC (134),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (134).jpg,7.0,Female,Finger,test
+P_274,SC (135),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (135).jpg,7.0,Female,Finger,test
+P_291,SC (183),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (183).jpg,8.0,Female,Hand,test
+P_291,SC (184),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (184).jpg,8.0,Female,Hand,test
+P_291,SC (185),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (185).jpg,8.0,Female,Hand,test
+P_243,SC (16),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (16).jpg,7.0,Female,Hand,test
+P_243,SC (17),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (17).jpg,7.0,Female,Hand,test
+P_294,SC (198),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (198).jpg,60.0,Male,Forearm,test
+P_249,SC (42),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (42).jpg,25.0,Male,Hand,test
+P_249,SC (43),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (43).jpg,25.0,Male,Hand,test
+P_249,SC (44),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (44).jpg,25.0,Male,Hand,test
+P_249,SC (45),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (45).jpg,25.0,Male,Hand,test
+P_249,SC (46),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (46).jpg,25.0,Male,Hand,test
+P_329,SC (341),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (341).jpg,16.0,Male,Finger,test
+P_285,SC (171),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (171).jpg,22.0,Male,Leg,test
+P_285,SC (172),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (172).jpg,22.0,Male,Leg,test
+P_255,SC (66),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (66).jpg,11.0,Female,Palm,test
+P_255,SC (67),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (67).jpg,11.0,Female,Palm,test
+P_255,SC (68),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (68).jpg,11.0,Female,Palm,test
+P_255,SC (69),Scabies (SC),Scabies,3,Preprocessed/Scabies (SC)/SC (69).jpg,11.0,Female,Palm,test
+P_347,SD (73),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (73).jpg,25.0,Male,Back,test
+P_347,SD (74),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (74).jpg,25.0,Male,Back,test
+P_347,SD (75),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (75).jpg,25.0,Male,Back,test
+P_341,SD (52),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (52).jpg,35.0,Female,Toe_Nail,test
+P_341,SD (53),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (53).jpg,35.0,Female,Toe_Nail,test
+P_341,SD (54),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (54).jpg,35.0,Female,Toe_Nail,test
+P_341,SD (55),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (55).jpg,35.0,Female,Leg,test
+P_341,SD (56),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (56).jpg,35.0,Female,Leg,test
+P_339,SD (33),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (33).jpg,55.0,Female,Belly,test
+P_339,SD (34),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (34).jpg,55.0,Female,Belly,test
+P_339,SD (35),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (35).jpg,55.0,Female,Arm,test
+P_339,SD (36),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (36).jpg,55.0,Female,Arm,test
+P_339,SD (37),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (37).jpg,55.0,Female,Forearm,test
+P_339,SD (38),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (38).jpg,55.0,Female,Forearm,test
+P_339,SD (39),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (39).jpg,55.0,Female,Forearm,test
+P_339,SD (40),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (40).jpg,55.0,Female,Forearm,test
+P_339,SD (41),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (41).jpg,55.0,Female,Forearm,test
+P_339,SD (42),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (42).jpg,55.0,Female,Forearm,test
+P_339,SD (43),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (43).jpg,55.0,Female,Forearm,test
+P_339,SD (44),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (44).jpg,55.0,Female,Forearm,test
+P_339,SD (45),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (45).jpg,55.0,Female,Forearm,test
+P_339,SD (46),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (46).jpg,55.0,Female,Forearm,test
+P_339,SD (47),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (47).jpg,55.0,Female,Forearm,test
+P_339,SD (48),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (48).jpg,55.0,Female,Forearm,test
+P_339,SD (49),Seborrheic Dermatitis (SD),Seborrheic Dermatitis,4,Preprocessed/Seborrheic Dermatitis (SD)/SD (49).jpg,55.0,Female,Forearm,test
+P_376,TC (118),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (118).jpg,44.0,Female,Forearm,test
+P_376,TC (119),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (119).jpg,44.0,Female,Forearm,test
+P_376,TC (120),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (120).jpg,44.0,Female,Forearm,test
+P_374,TC (105),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (105).jpg,35.0,Male,Hand,test
+P_374,TC (106),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (106).jpg,35.0,Male,Hand,test
+P_374,TC (107),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (107).jpg,35.0,Male,Hand,test
+P_374,TC (108),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (108).jpg,35.0,Male,Hand,test
+P_374,TC (109),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (109).jpg,35.0,Male,Hand,test
+P_374,TC (110),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (110).jpg,35.0,Male,Hand,test
+P_374,TC (111),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (111).jpg,35.0,Male,Hand,test
+P_374,TC (112),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (112).jpg,35.0,Male,Hand,test
+P_374,TC (113),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (113).jpg,35.0,Male,Hand,test
+P_393,TC (182),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (182).jpg,34.0,Female,Forearm,test
+P_354,TC (20),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (20).jpg,43.0,Female,Forearm,test
+P_354,TC (21),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (21).jpg,43.0,Female,Forearm,test
+P_360,TC (53),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (53).jpg,70.0,Female,Chest,test
+P_351,TC (8),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (8).jpg,24.0,Female,Forearm,test
+P_351,TC (9),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (9).jpg,24.0,Female,Forearm,test
+P_351,TC (10),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (10).jpg,24.0,Female,Forearm,test
+P_356,TC (25),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (25).jpg,40.0,Female,Belly,test
+P_356,TC (26),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (26).jpg,40.0,Female,Belly,test
+P_356,TC (27),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (27).jpg,40.0,Female,Belly,test
+P_356,TC (28),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (28).jpg,40.0,Female,Forearm,test
+P_361,TC (54),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (54).jpg,30.0,Female,Forearm,test
+P_361,TC (55),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (55).jpg,30.0,Female,Forearm,test
+P_363,TC (59),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (59).jpg,50.0,Female,Arm,test
+P_363,TC (60),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (60).jpg,50.0,Female,Arm,test
+P_363,TC (61),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (61).jpg,50.0,Female,Forearm,test
+P_363,TC (62),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (62).jpg,50.0,Female,Forearm,test
+P_416,TC (270),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (270).jpg,12.0,Male,Chest,test
+P_416,TC (271),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (271).jpg,12.0,Male,Chest,test
+P_416,TC (272),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (272).jpg,12.0,Male,Chest,test
+P_416,TC (273),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (273).jpg,12.0,Male,Shoulder,test
+P_416,TC (274),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (274).jpg,12.0,Male,Shoulder,test
+P_416,TC (275),Tinea Corporis (TC),Tinea Corporis,5,Preprocessed/Tinea Corporis (TC)/TC (275).jpg,12.0,Male,Neck,test

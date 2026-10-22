@@ -1,0 +1,120 @@
+{
+  "metadata_headers": [
+    "Folder_name",
+    "Patient_id",
+    "Image_id",
+    "Age",
+    "Sex",
+    "Leision_location",
+    "Diagnosis"
+  ],
+  "total_rows": 1710,
+  "missing_values": {},
+  "sample_rows": [
+    {
+      "Folder_name": "Atopic Dermatitis (AD)",
+      "Patient_id": "P_001",
+      "Image_id": "AD (1)",
+      "Age": "14",
+      "Sex": "Female",
+      "Leision_location": "Hand",
+      "Diagnosis": "Atopic Dermatitis"
+    },
+    {
+      "Folder_name": "Atopic Dermatitis (AD)",
+      "Patient_id": "P_001",
+      "Image_id": "AD (2)",
+      "Age": "14",
+      "Sex": "Female",
+      "Leision_location": "Hand",
+      "Diagnosis": "Atopic Dermatitis"
+    },
+    {
+      "Folder_name": "Atopic Dermatitis (AD)",
+      "Patient_id": "P_001",
+      "Image_id": "AD (3)",
+      "Age": "14",
+      "Sex": "Female",
+      "Leision_location": "Finger",
+      "Diagnosis": "Atopic Dermatitis"
+    },
+    {
+      "Folder_name": "Atopic Dermatitis (AD)",
+      "Patient_id": "P_001",
+      "Image_id": "AD (4)",
+      "Age": "14",
+      "Sex": "Female",
+      "Leision_location": "Finger",
+      "Diagnosis": "Atopic Dermatitis"
+    },
+    {
+      "Folder_name": "Atopic Dermatitis (AD)",
+      "Patient_id": "P_001",
+      "Image_id": "AD (5)",
+      "Age": "14",
+      "Sex": "Female",
+      "Leision_location": "Hand",
+      "Diagnosis": "Atopic Dermatitis"
+    }
+  ],
+  "folder_counts": {
+    "Atopic Dermatitis (AD)": 70,
+    "Contact Dermatitis (CD)": 477,
+    "Eczema (EC)": 466,
+    "Scabies (SC)": 343,
+    "Seborrheic Dermatitis (SD)": 79,
+    "Tinea Corporis (TC)": 275
+  },
+  "diagnosis_counts": {
+    "Atopic Dermatitis": 70,
+    "Contact Dermatitis": 477,
+    "Eczema": 466,
+    "Scabies": 343,
+    "Seborrheic Dermatitis": 79,
+    "Tinea Corporis": 275
+  },
+  "unique_patients_count": 416,
+  "total_images_in_csv": 1710,
+  "multi_diag_patients": {},
+  "preprocessed_total_files": 1710,
+  "preprocessed_by_folder": {
+    "Atopic Dermatitis (AD)": 70,
+    "Contact Dermatitis (CD)": 477,
+    "Eczema (EC)": 466,
+    "Scabies (SC)": 343,
+    "Seborrheic Dermatitis (SD)": 79,
+    "Tinea Corporis (TC)": 275
+  },
+  "preprocessed_unreadable": [],
+  "preprocessed_formats": {
+    "JPEG": 1710
+  },
+  "preprocessed_shapes": {
+    "(512, 512)": 1710
+  },
+  "preprocessed_exact_duplicates": {},
+  "csv_missing_in_preproc": [],
+  "preproc_missing_in_csv": [],
+  "csv_to_preproc_matched_count": 1710,
+  "augmented_total_files": 11970,
+  "augmented_by_folder": {
+    "Atopic Dermatitis (AD)": 490,
+    "Contact Dermatitis (CD)": 3339,
+    "Eczema (EC)": 3262,
+    "Scabies (SC)": 2401,
+    "Seborrheic Dermatitis (SD)": 553,
+    "Tinea Corporis (TC)": 1925
+  },
+  "augmented_unreadable": [],
+  "augmented_formats": {
+    "JPEG": 11970
+  },
+  "augmented_shapes": {
+    "(512, 512)": 11970
+  },
+  "derivatives_count": 1710,
+  "derivatives_per_orig_distribution": {
+    "7": 1710
+  },
+  "orphan_augmented_count": 0
+}

@@ -1,0 +1,26 @@
+{
+  "class_to_idx": {
+    "Atopic Dermatitis": 0,
+    "Contact Dermatitis": 1,
+    "Eczema": 2,
+    "Scabies": 3,
+    "Seborrheic Dermatitis": 4,
+    "Tinea Corporis": 5
+  },
+  "idx_to_class": {
+    "0": "Atopic Dermatitis",
+    "1": "Contact Dermatitis",
+    "2": "Eczema",
+    "3": "Scabies",
+    "4": "Seborrheic Dermatitis",
+    "5": "Tinea Corporis"
+  },
+  "classes": [
+    "Atopic Dermatitis",
+    "Contact Dermatitis",
+    "Eczema",
+    "Scabies",
+    "Seborrheic Dermatitis",
+    "Tinea Corporis"
+  ]
+}

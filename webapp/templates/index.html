@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SkinDisNet - 6-Class Clinical Skin Disease Classifier</title>
+    <meta name="description" content="Academic research screening system for dermatological image classification across 6 conditions using EfficientNetB0 transfer learning on SkinDisNet.">
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Plus+Jakarta+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+    <!-- Top Navigation Bar -->
+    <header class="navbar">
+        <div class="nav-container">
+            <div class="brand">
+                <div class="brand-icon">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <circle cx="12" cy="12" r="9"/>
+                        <path d="M12 3v18"/>
+                        <path d="M3 12h18"/>
+                        <circle cx="12" cy="12" r="4" fill="currentColor" fill-opacity="0.2"/>
+                    </svg>
+                </div>
+                <div class="brand-text">
+                    <span class="brand-title">SkinDisNet <span class="badge-tag">AI Screener</span></span>
+                    <span class="brand-subtitle">Clinical Dermatology Deep Learning Classifier</span>
+                </div>
+            </div>
+            <div class="nav-actions">
+                <button class="nav-btn" id="btn-show-metrics" title="View Model Performance & Confusion Matrix">
+                    <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M18 20V10M12 20V4M6 20v-6"/>
+                    </svg>
+                    <span>Model Performance</span>
+                </button>
+                <div class="status-indicator ready" id="system-status">
+                    <span class="dot"></span>
+                    <span class="status-label">EfficientNetB0 Active</span>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Workspace Container -->
+    <main class="app-main">
+        <!-- Academic Disclaimer Banner -->
+        <div class="disclaimer-banner">
+            <div class="banner-icon">
+                <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/>
+                    <line x1="12" y1="9" x2="12" y2="13"/>
+                    <line x1="12" y1="17" x2="12.01" y2="17"/>
+                </svg>
+            </div>
+            <div class="banner-content">
+                <strong>Academic Research & Screening Disclaimer:</strong> This system is engineered exclusively for preliminary screening and academic investigation. It does not replace histopathological examination, clinical biopsy, or evaluation by a board-certified dermatologist.
+            </div>
+        </div>
+
+        <div class="workspace-grid">
+            <!-- Left Column: Input & Upload Section -->
+            <section class="card input-card">
+                <div class="card-header">
+                    <div class="card-title-group">
+                        <h2 class="card-title">1. Clinical Image Input</h2>
+                        <p class="card-description">Upload a dermatological lesion photograph or select a patient-isolated test sample.</p>
+                    </div>
+                </div>
+
+                <!-- Dropzone Area -->
+                <div class="upload-dropzone" id="drop-zone">
+                    <input type="file" id="file-input" accept="image/jpeg,image/png,image/webp" style="display: none;">
+                    
+                    <div class="dropzone-content" id="dropzone-prompt">
+                        <div class="dropzone-icon">
+                            <svg viewBox="0 0 24 24" width="36" height="36" fill="none" stroke="currentColor" stroke-width="1.8">
+                                <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/>
+                                <polyline points="17 8 12 3 7 8"/>
+                                <line x1="12" y1="3" x2="12" y2="15"/>
+                            </svg>
+                        </div>
+                        <h3 class="dropzone-title">Drag & Drop Image Here</h3>
+                        <p class="dropzone-hint">Supports JPEG, PNG, or WEBP (Standardized to 224×224)</p>
+                        <button class="btn-primary" id="btn-browse" type="button">
+                            Browse Local Image
+                        </button>
+                    </div>
+
+                    <!-- Image Preview Container (Hidden initially) -->
+                    <div class="preview-container" id="preview-container" style="display: none;">
+                        <img id="image-preview" src="" alt="Selected skin lesion preview">
+                        <div class="preview-overlay">
+                            <span class="preview-badge" id="preview-meta">224 × 224 RGB</span>
+                            <button class="btn-icon" id="btn-remove-image" title="Clear image">
+                                <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2">
+                                    <line x1="18" y1="6" x2="6" y2="18"/>
+                                    <line x1="6" y1="6" x2="18" y2="18"/>
+                                </svg>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Clinical Metadata (Optional Multimodal Input) -->
+                <div class="metadata-form-section">
+                    <div class="metadata-form-header">
+                        <span class="meta-form-title">
+                            <svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2"/>
+                                <rect x="8" y="2" width="8" height="4" rx="1" ry="1"/>
+                            </svg>
+                            Clinical Patient Metadata (Optional Multimodal Boost)
+                        </span>
+                        <span class="meta-badge-pill">Fase 2 Multimodal</span>
+                    </div>
+                    <div class="metadata-grid">
+                        <div class="meta-field">
+                            <label for="meta-location">Lesion Location</label>
+                            <select id="meta-location">
+                                <option value="Unknown">Auto / Unknown</option>
+                                <option value="Forearm">Forearm</option>
+                                <option value="Hand">Hand</option>
+                                <option value="Finger">Finger</option>
+                                <option value="Palm">Palm</option>
+                                <option value="Leg">Leg</option>
+                                <option value="Foot">Foot</option>
+                                <option value="Toe">Toe</option>
+                                <option value="Shin">Shin</option>
+                                <option value="Arm">Arm</option>
+                                <option value="Belly">Belly / Trunk</option>
+                                <option value="Back">Back</option>
+                                <option value="Face">Face / Cheek</option>
+                                <option value="Head">Head / Scalp</option>
+                                <option value="Neck">Neck</option>
+                                <option value="Ear">Ear</option>
+                                <option value="Chest">Chest</option>
+                                <option value="Sole">Sole</option>
+                                <option value="Lip">Lip</option>
+                            </select>
+                        </div>
+                        <div class="meta-field">
+                            <label for="meta-age">Patient Age</label>
+                            <input type="number" id="meta-age" min="0" max="100" placeholder="e.g. 28">
+                        </div>
+                        <div class="meta-field">
+                            <label for="meta-sex">Sex</label>
+                            <select id="meta-sex">
+                                <option value="Unknown">Unspecified</option>
+                                <option value="Female">Female</option>
+                                <option value="Male">Male</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Action Controls -->
+                <div class="action-bar">
+                    <button class="btn-cta" id="btn-classify" disabled>
+                        <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2">
+                            <circle cx="11" cy="11" r="8"/>
+                            <line x1="21" y1="21" x2="16.65" y2="16.65"/>
+                            <line x1="11" y1="8" x2="11" y2="14"/>
+                            <line x1="8" y1="11" x2="14" y2="11"/>
+                        </svg>
+                        <span>Analyze & Classify Lesion</span>
+                    </button>
+                </div>
+
+                <!-- Quick Test Samples Selector -->
+                <div class="samples-section">
+                    <div class="samples-header">
+                        <span class="samples-title">Or Test with Verified Test Split Samples:</span>
+                        <span class="samples-hint">Patient-isolated test set</span>
+                    </div>
+                    <div class="samples-grid" id="samples-container">
+                        <!-- Populated by JavaScript -->
+                        <div class="sample-skeleton"></div>
+                        <div class="sample-skeleton"></div>
+                        <div class="sample-skeleton"></div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Right Column: Inference Results Section -->
+            <section class="card results-card" id="results-card">
+                <div class="card-header">
+                    <div class="card-title-group">
+                        <h2 class="card-title">2. Classification Results</h2>
+                        <p class="card-description">Transfer learning confidence across all six SkinDisNet target classes.</p>
+                    </div>
+                </div>
+
+                <!-- Empty Initial State -->
+                <div class="empty-state" id="empty-state">
+                    <div class="empty-icon">
+                        <svg viewBox="0 0 24 24" width="48" height="48" fill="none" stroke="currentColor" stroke-width="1.2">
+                            <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/>
+                            <polyline points="14 2 14 8 20 8"/>
+                            <line x1="16" y1="13" x2="8" y2="13"/>
+                            <line x1="16" y1="17" x2="8" y2="17"/>
+                            <polyline points="10 9 9 9 8 9"/>
+                        </svg>
+                    </div>
+                    <h3 class="empty-title">Awaiting Image Input</h3>
+                    <p class="empty-description">Upload a lesion photo or choose a sample to view neural network diagnostic predictions, confidence percentages, and clinical hallmarks.</p>
+                </div>
+
+                <!-- Loading State -->
+                <div class="loading-state" id="loading-state" style="display: none;">
+                    <div class="spinner"></div>
+                    <h3 class="loading-title">Processing Neural Inference...</h3>
+                    <p class="loading-subtitle">Extracting multi-scale EfficientNetB0 feature representations</p>
+                </div>
+
+                <!-- Populated Prediction Output -->
+                <div class="results-content" id="results-content" style="display: none;">
+                    <!-- Primary Prediction Hero Banner -->
+                    <div class="prediction-hero" id="prediction-hero">
+                        <div class="prediction-info">
+                            <span class="pred-label">Primary Diagnostic Classification</span>
+                            <h3 class="pred-class-name" id="pred-class-name">Eczema</h3>
+                            <div class="pred-badges">
+                                <span class="category-badge" id="pred-category">Eczematous Dermatoses</span>
+                                <span class="verified-badge">SkinDisNet Multi-Class</span>
+                            </div>
+                        </div>
+                        <div class="confidence-circle" id="confidence-circle">
+                            <svg viewBox="0 0 100 100" class="gauge-svg">
+                                <circle cx="50" cy="50" r="42" class="gauge-bg"/>
+                                <circle cx="50" cy="50" r="42" class="gauge-fill" id="gauge-fill-circle"/>
+                            </svg>
+                            <div class="gauge-content">
+                                <span class="gauge-val" id="gauge-val">94.8%</span>
+                                <span class="gauge-sub">Confidence</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Multi-Class Probability Breakdown -->
+                    <div class="breakdown-section">
+                        <h4 class="section-title">6-Class Probability Distribution</h4>
+                        <div class="probabilities-list" id="probabilities-list">
+                            <!-- Populated dynamically -->
+                        </div>
+                    </div>
+
+                    <!-- Clinical Pathology Profile -->
+                    <div class="clinical-profile" id="clinical-profile">
+                        <h4 class="section-title">Clinical Pathology & Diagnostic Profile</h4>
+                        <div class="profile-grid">
+                            <div class="profile-item">
+                                <span class="profile-label">Clinical Description</span>
+                                <p class="profile-text" id="desc-text">-</p>
+                            </div>
+                            <div class="profile-item">
+                                <span class="profile-label">Common Anatomical Sites</span>
+                                <p class="profile-text" id="sites-text">-</p>
+                            </div>
+                            <div class="profile-item">
+                                <span class="profile-label">Visual Lesion Hallmarks</span>
+                                <p class="profile-text" id="hallmarks-text">-</p>
+                            </div>
+                            <div class="profile-item">
+                                <span class="profile-label">Differential Considerations</span>
+                                <p class="profile-text" id="differential-text">-</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <!-- Model Performance Modal -->
+    <div class="modal-backdrop" id="metrics-modal" style="display: none;">
+        <div class="modal-dialog">
+            <div class="modal-header">
+                <div class="modal-title-group">
+                    <h2 class="modal-title">Model Performance & Clinical Validation</h2>
+                    <p class="modal-subtitle">Untouched patient-independent test set results (261 independent test images)</p>
+                </div>
+                <button class="modal-close-btn" id="btn-close-modal">&times;</button>
+            </div>
+            <div class="modal-body">
+                <!-- Summary Metrics Cards -->
+                <div class="metrics-cards-grid">
+                    <div class="metric-card">
+                        <span class="metric-title">Test Accuracy</span>
+                        <span class="metric-value" id="val-accuracy">--</span>
+                        <span class="metric-subtitle">Untouched Test Split</span>
+                    </div>
+                    <div class="metric-card">
+                        <span class="metric-title">Macro F1-Score</span>
+                        <span class="metric-value" id="val-macro-f1">--</span>
+                        <span class="metric-subtitle">Balanced Across Classes</span>
+                    </div>
+                    <div class="metric-card">
+                        <span class="metric-title">Baseline Comparison</span>
+                        <span class="metric-value" id="val-baseline-acc">--</span>
+                        <span class="metric-subtitle">Custom CNN Baseline</span>
+                    </div>
+                    <div class="metric-card">
+                        <span class="metric-title">Patient Isolation</span>
+                        <span class="metric-value">100%</span>
+                        <span class="metric-subtitle">0 Patient Split Overlap</span>
+                    </div>
+                </div>
+
+                <!-- Visual Artifacts Tabs -->
+                <div class="artifact-visuals">
+                    <div class="artifact-box">
+                        <h4 class="artifact-title">Confusion Matrix (Test Set)</h4>
+                        <img src="/artifacts/confusion_matrix.png" alt="Confusion Matrix" class="artifact-img" onerror="this.src='/static/img/placeholder.svg'">
+                    </div>
+                    <div class="artifact-box">
+                        <h4 class="artifact-title">Training & Fine-Tuning Convergence</h4>
+                        <img src="/artifacts/training_history.png" alt="Training History" class="artifact-img" onerror="this.src='/static/img/placeholder.svg'">
+                    </div>
+                </div>
+
+                <!-- Methodology Details -->
+                <div class="methodology-box">
+                    <h4>Clinical Research Methodology:</h4>
+                    <ul>
+                        <li><strong>Dataset:</strong> SkinDisNet (1,710 verified clinical preprocessed photographs across 6 diagnostic categories).</li>
+                        <li><strong>Patient Partitioning:</strong> Stratified patient-level splitting (292 train, 62 validation, 62 test patients) ensuring no cross-set patient leakage.</li>
+                        <li><strong>Backbone:</strong> ImageNet-pretrained EfficientNetB0 with two-stage training (Feature Extraction with frozen backbone followed by upper-layer fine-tuning).</li>
+                        <li><strong>Loss Weighting:</strong> Balanced inverse frequency class weights to address natural clinical class imbalance.</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="/static/js/app.js"></script>
+</body>
+</html>

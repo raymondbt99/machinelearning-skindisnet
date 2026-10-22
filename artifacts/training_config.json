@@ -1,0 +1,52 @@
+{
+  "architecture": "EfficientNetB0",
+  "input_shape": [
+    224,
+    224,
+    3
+  ],
+  "pretrained_weights": "imagenet",
+  "num_classes": 6,
+  "classes": [
+    "Atopic Dermatitis",
+    "Contact Dermatitis",
+    "Eczema",
+    "Scabies",
+    "Seborrheic Dermatitis",
+    "Tinea Corporis"
+  ],
+  "batch_size": 32,
+  "optimizer": "Adam",
+  "loss": "SparseCategoricalCrossentropy",
+  "stage1": {
+    "description": "Feature extraction with frozen backbone",
+    "learning_rate": 0.001,
+    "epochs_trained": 10
+  },
+  "stage2": {
+    "description": "Fine-tuning top 30 layers with low learning rate",
+    "learning_rate": 1e-05,
+    "epochs_trained": 5
+  },
+  "regularization": {
+    "head_dropout": 0.4,
+    "dense_dropout": 0.3,
+    "dense_units": 256,
+    "batch_normalization": true
+  },
+  "augmentation": [
+    "RandomFlip(horizontal)",
+    "RandomRotation(0.1)",
+    "RandomZoom(0.1)",
+    "RandomContrast(0.1)"
+  ],
+  "class_weights": {
+    "0": 3.338888888888889,
+    "1": 0.5773294908741594,
+    "2": 0.68140589569161,
+    "3": 0.7887139107611548,
+    "4": 5.008333333333334,
+    "5": 0.9677938808373591
+  },
+  "random_seed": 42
+}
